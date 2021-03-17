@@ -195,12 +195,12 @@
      46.115452
     ],
     "ref_distance": 8.5,
-    "ref_id": "1988",
+    "ref_id": "2147",
     "ref_unused_tags.man_made": "mast",
     "tags.communication:mobile_phone": "yes",
     "tags.man_made": "tower",
     "tags.tower:type": "communication",
-    "tags_new.operator": "Vodafone Omnitel",
+    "tags_new.operator": "Telecom Italia Mobile",
     "tags_new.source": "RAFVG",
     "tags_new.start_date": "2014-09-01"
    },
@@ -224,7 +224,7 @@
      45.853244
     ],
     "ref_distance": 9.2,
-    "ref_id": "1280",
+    "ref_id": "1135",
     "ref_unused_tags.man_made": "mast",
     "tags.communication:antenna": "yes",
     "tags.communication:gsm": "yes",
@@ -232,7 +232,7 @@
     "tags.communication:mobile_phone": "yes",
     "tags.man_made": "tower",
     "tags.tower:type": "communication",
-    "tags_new.operator": "Telecom Italia Mobile",
+    "tags_new.operator": "Vodafone Omnitel",
     "tags_new.source": "RAFVG",
     "tags_new.start_date": "2017-07-14"
    },
@@ -264,29 +264,6 @@
   {
    "geometry": {
     "coordinates": [
-     12.892752,
-     46.119113
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -10,
-    "osm_type": "node",
-    "ref_id": "1018",
-    "tags.communication:mobile_phone": "yes",
-    "tags.man_made": "mast",
-    "tags.operator": "Wind-tre",
-    "tags.source": "RAFVG",
-    "tags.start_date": "2012-05-24",
-    "tags.tower:type": "communication"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      12.720507,
      45.880643
     ],
@@ -295,7 +272,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -11,
+    "osm_id": -10,
     "osm_type": "node",
     "ref_id": "1025",
     "tags.communication:mobile_phone": "yes",
@@ -318,7 +295,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -12,
+    "osm_id": -11,
     "osm_type": "node",
     "ref_id": "1028",
     "tags.communication:mobile_phone": "yes",
@@ -341,7 +318,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -13,
+    "osm_id": -12,
     "osm_type": "node",
     "ref_id": "1039",
     "tags.communication:mobile_phone": "yes",
@@ -364,7 +341,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -14,
+    "osm_id": -13,
     "osm_type": "node",
     "ref_id": "1046",
     "tags.communication:mobile_phone": "yes",
@@ -387,7 +364,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -15,
+    "osm_id": -14,
     "osm_type": "node",
     "ref_id": "1049",
     "tags.communication:mobile_phone": "yes",
@@ -410,7 +387,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -16,
+    "osm_id": -15,
     "osm_type": "node",
     "ref_id": "106",
     "tags.communication:mobile_phone": "yes",
@@ -433,7 +410,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -17,
+    "osm_id": -16,
     "osm_type": "node",
     "ref_id": "1064",
     "tags.communication:mobile_phone": "yes",
@@ -441,6 +418,52 @@
     "tags.operator": "Telecom Italia Mobile",
     "tags.source": "RAFVG",
     "tags.start_date": "2015-06-11",
+    "tags.tower:type": "communication"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.469786,
+     46.263363
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -17,
+    "osm_type": "node",
+    "ref_id": "1071",
+    "tags.communication:mobile_phone": "yes",
+    "tags.man_made": "mast",
+    "tags.operator": "Telecom Italia Mobile",
+    "tags.source": "RAFVG",
+    "tags.start_date": "2016-11-23",
+    "tags.tower:type": "communication"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.836822,
+     46.033584
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -18,
+    "osm_type": "node",
+    "ref_id": "1072",
+    "tags.communication:mobile_phone": "yes",
+    "tags.man_made": "mast",
+    "tags.operator": "Telecom Italia Mobile",
+    "tags.source": "RAFVG",
+    "tags.start_date": "2014-02-24",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -456,7 +479,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -18,
+    "osm_id": -19,
     "osm_type": "node",
     "ref_id": "1077",
     "tags.communication:mobile_phone": "yes",
@@ -471,22 +494,22 @@
   {
    "geometry": {
     "coordinates": [
-     12.61829,
-     45.967926
+     12.772598,
+     45.968888
     ],
     "type": "Point"
    },
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -19,
+    "osm_id": -20,
     "osm_type": "node",
-    "ref_id": "1102",
+    "ref_id": "1083",
     "tags.communication:mobile_phone": "yes",
     "tags.man_made": "mast",
     "tags.operator": "Telecom Italia Mobile",
     "tags.source": "RAFVG",
-    "tags.start_date": "2015-05-07",
+    "tags.start_date": "2014-06-16",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -502,14 +525,14 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -20,
+    "osm_id": -21,
     "osm_type": "node",
-    "ref_id": "1140",
+    "ref_id": "1104",
     "tags.communication:mobile_phone": "yes",
     "tags.man_made": "mast",
-    "tags.operator": "Telecom Italia Mobile",
+    "tags.operator": "Vodafone Omnitel",
     "tags.source": "RAFVG",
-    "tags.start_date": "2014-08-19",
+    "tags.start_date": "2014-08-26",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -525,7 +548,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -21,
+    "osm_id": -22,
     "osm_type": "node",
     "ref_id": "1144",
     "tags.communication:mobile_phone": "yes",
@@ -548,7 +571,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -22,
+    "osm_id": -23,
     "osm_type": "node",
     "ref_id": "1151",
     "tags.communication:mobile_phone": "yes",
@@ -571,7 +594,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -23,
+    "osm_id": -24,
     "osm_type": "node",
     "ref_id": "1152",
     "tags.communication:mobile_phone": "yes",
@@ -594,7 +617,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -24,
+    "osm_id": -25,
     "osm_type": "node",
     "ref_id": "1155",
     "tags.communication:mobile_phone": "yes",
@@ -602,6 +625,29 @@
     "tags.operator": "Vodafone Omnitel",
     "tags.source": "RAFVG",
     "tags.start_date": "2014-08-25",
+    "tags.tower:type": "communication"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.586211,
+     45.985904
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -26,
+    "osm_type": "node",
+    "ref_id": "1166",
+    "tags.communication:mobile_phone": "yes",
+    "tags.man_made": "mast",
+    "tags.operator": "Vodafone Omnitel",
+    "tags.source": "RAFVG",
+    "tags.start_date": "2016-06-30",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -617,7 +663,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -25,
+    "osm_id": -27,
     "osm_type": "node",
     "ref_id": "1171",
     "tags.communication:mobile_phone": "yes",
@@ -640,7 +686,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -26,
+    "osm_id": -28,
     "osm_type": "node",
     "ref_id": "1174",
     "tags.communication:mobile_phone": "yes",
@@ -663,7 +709,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -27,
+    "osm_id": -29,
     "osm_type": "node",
     "ref_id": "1194",
     "tags.communication:mobile_phone": "yes",
@@ -686,7 +732,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -28,
+    "osm_id": -30,
     "osm_type": "node",
     "ref_id": "1202",
     "tags.communication:mobile_phone": "yes",
@@ -694,29 +740,6 @@
     "tags.operator": "Telecom Italia Mobile",
     "tags.source": "RAFVG",
     "tags.start_date": "2016-12-16",
-    "tags.tower:type": "communication"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     12.560581,
-     45.985611
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -29,
-    "osm_type": "node",
-    "ref_id": "1203",
-    "tags.communication:mobile_phone": "yes",
-    "tags.man_made": "mast",
-    "tags.operator": "Telecom Italia Mobile",
-    "tags.source": "RAFVG",
-    "tags.start_date": "2014-07-21",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -732,7 +755,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -30,
+    "osm_id": -31,
     "osm_type": "node",
     "ref_id": "121",
     "tags.communication:mobile_phone": "yes",
@@ -755,7 +778,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -31,
+    "osm_id": -32,
     "osm_type": "node",
     "ref_id": "1221",
     "tags.communication:mobile_phone": "yes",
@@ -778,7 +801,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -32,
+    "osm_id": -33,
     "osm_type": "node",
     "ref_id": "1233",
     "tags.communication:mobile_phone": "yes",
@@ -801,7 +824,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -33,
+    "osm_id": -34,
     "osm_type": "node",
     "ref_id": "1238",
     "tags.communication:mobile_phone": "yes",
@@ -824,7 +847,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -34,
+    "osm_id": -35,
     "osm_type": "node",
     "ref_id": "1244",
     "tags.communication:mobile_phone": "yes",
@@ -847,7 +870,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -35,
+    "osm_id": -36,
     "osm_type": "node",
     "ref_id": "1247",
     "tags.communication:mobile_phone": "yes",
@@ -870,7 +893,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -36,
+    "osm_id": -37,
     "osm_type": "node",
     "ref_id": "1255",
     "tags.communication:mobile_phone": "yes",
@@ -878,6 +901,29 @@
     "tags.operator": "Vodafone Omnitel",
     "tags.source": "RAFVG",
     "tags.start_date": "2004-06-28",
+    "tags.tower:type": "communication"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.797038,
+     46.203926
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -38,
+    "osm_type": "node",
+    "ref_id": "1256",
+    "tags.communication:mobile_phone": "yes",
+    "tags.man_made": "mast",
+    "tags.operator": "Vodafone Omnitel",
+    "tags.source": "RAFVG",
+    "tags.start_date": "2015-05-13",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -893,7 +939,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -37,
+    "osm_id": -39,
     "osm_type": "node",
     "ref_id": "1258",
     "tags.communication:mobile_phone": "yes",
@@ -908,45 +954,22 @@
   {
    "geometry": {
     "coordinates": [
-     12.836822,
-     46.033584
+     12.553046,
+     45.913076
     ],
     "type": "Point"
    },
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -38,
+    "osm_id": -40,
     "osm_type": "node",
-    "ref_id": "1289",
+    "ref_id": "1268",
     "tags.communication:mobile_phone": "yes",
     "tags.man_made": "mast",
-    "tags.operator": "Vodafone Omnitel",
+    "tags.operator": "Telecom Italia Mobile",
     "tags.source": "RAFVG",
-    "tags.start_date": "2014-02-24",
-    "tags.tower:type": "communication"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     12.472136,
-     45.982707
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -39,
-    "osm_type": "node",
-    "ref_id": "1290",
-    "tags.communication:mobile_phone": "yes",
-    "tags.man_made": "mast",
-    "tags.operator": "Vodafone Omnitel",
-    "tags.source": "RAFVG",
-    "tags.start_date": "2015-06-17",
+    "tags.start_date": "2015-06-05",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -962,12 +985,12 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -40,
+    "osm_id": -41,
     "osm_type": "node",
-    "ref_id": "1294",
+    "ref_id": "1276",
     "tags.communication:mobile_phone": "yes",
     "tags.man_made": "mast",
-    "tags.operator": "Vodafone Omnitel",
+    "tags.operator": "Telecom Italia Mobile",
     "tags.source": "RAFVG",
     "tags.start_date": "2014-04-23",
     "tags.tower:type": "communication"
@@ -977,22 +1000,114 @@
   {
    "geometry": {
     "coordinates": [
-     12.863632,
-     45.870018
+     12.472136,
+     45.982707
     ],
     "type": "Point"
    },
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -41,
+    "osm_id": -42,
     "osm_type": "node",
-    "ref_id": "1317",
+    "ref_id": "1290",
     "tags.communication:mobile_phone": "yes",
     "tags.man_made": "mast",
     "tags.operator": "Vodafone Omnitel",
     "tags.source": "RAFVG",
-    "tags.start_date": "2015-01-07",
+    "tags.start_date": "2015-06-17",
+    "tags.tower:type": "communication"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.755051,
+     46.18163
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -43,
+    "osm_type": "node",
+    "ref_id": "1295",
+    "tags.communication:mobile_phone": "yes",
+    "tags.man_made": "mast",
+    "tags.operator": "Vodafone Omnitel",
+    "tags.source": "RAFVG",
+    "tags.start_date": "2015-10-29",
+    "tags.tower:type": "communication"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.543094,
+     45.896141
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -44,
+    "osm_type": "node",
+    "ref_id": "1303",
+    "tags.communication:mobile_phone": "yes",
+    "tags.man_made": "mast",
+    "tags.operator": "Telecom Italia Mobile",
+    "tags.source": "RAFVG",
+    "tags.start_date": "2014-05-05",
+    "tags.tower:type": "communication"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.702676,
+     45.888012
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -45,
+    "osm_type": "node",
+    "ref_id": "1327",
+    "tags.communication:mobile_phone": "yes",
+    "tags.man_made": "mast",
+    "tags.operator": "Telecom Italia Mobile",
+    "tags.source": "RAFVG",
+    "tags.start_date": "2014-04-23",
+    "tags.tower:type": "communication"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.774684,
+     45.954905
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -46,
+    "osm_type": "node",
+    "ref_id": "1330",
+    "tags.communication:mobile_phone": "yes",
+    "tags.man_made": "mast",
+    "tags.operator": "Telecom Italia Mobile",
+    "tags.source": "RAFVG",
+    "tags.start_date": "2014-04-15",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -1008,7 +1123,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -42,
+    "osm_id": -47,
     "osm_type": "node",
     "ref_id": "1332",
     "tags.communication:mobile_phone": "yes",
@@ -1031,7 +1146,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -43,
+    "osm_id": -48,
     "osm_type": "node",
     "ref_id": "1335",
     "tags.communication:mobile_phone": "yes",
@@ -1039,29 +1154,6 @@
     "tags.operator": "Vodafone Omnitel",
     "tags.source": "RAFVG",
     "tags.start_date": "2014-07-21",
-    "tags.tower:type": "communication"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     12.709061,
-     45.981858
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -44,
-    "osm_type": "node",
-    "ref_id": "1338",
-    "tags.communication:mobile_phone": "yes",
-    "tags.man_made": "mast",
-    "tags.operator": "Telecom Italia Mobile",
-    "tags.source": "RAFVG",
-    "tags.start_date": "2014-01-30",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -1077,7 +1169,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -45,
+    "osm_id": -49,
     "osm_type": "node",
     "ref_id": "1344",
     "tags.communication:mobile_phone": "yes",
@@ -1092,22 +1184,22 @@
   {
    "geometry": {
     "coordinates": [
-     12.772598,
-     45.968888
+     12.476668,
+     45.981681
     ],
     "type": "Point"
    },
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -46,
+    "osm_id": -50,
     "osm_type": "node",
-    "ref_id": "1347",
+    "ref_id": "1345",
     "tags.communication:mobile_phone": "yes",
     "tags.man_made": "mast",
-    "tags.operator": "Vodafone Omnitel",
+    "tags.operator": "Wind-tre",
     "tags.source": "RAFVG",
-    "tags.start_date": "2015-06-22",
+    "tags.start_date": "2017-06-01",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -1123,7 +1215,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -47,
+    "osm_id": -51,
     "osm_type": "node",
     "ref_id": "1352",
     "tags.communication:mobile_phone": "yes",
@@ -1131,29 +1223,6 @@
     "tags.operator": "Altro Gestore",
     "tags.source": "RAFVG",
     "tags.start_date": "2016-01-20",
-    "tags.tower:type": "communication"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     12.520461,
-     46.107223
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -48,
-    "osm_type": "node",
-    "ref_id": "1363",
-    "tags.communication:mobile_phone": "yes",
-    "tags.man_made": "mast",
-    "tags.operator": "Vodafone Omnitel",
-    "tags.source": "RAFVG",
-    "tags.start_date": "2018-02-12",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -1169,7 +1238,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -49,
+    "osm_id": -52,
     "osm_type": "node",
     "ref_id": "1365",
     "tags.communication:mobile_phone": "yes",
@@ -1177,29 +1246,6 @@
     "tags.operator": "Telecom Italia Mobile",
     "tags.source": "RAFVG",
     "tags.start_date": "2006-02-13",
-    "tags.tower:type": "communication"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     12.711905,
-     46.164897
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -50,
-    "osm_type": "node",
-    "ref_id": "137",
-    "tags.communication:mobile_phone": "yes",
-    "tags.man_made": "mast",
-    "tags.operator": "Wind-tre",
-    "tags.source": "RAFVG",
-    "tags.start_date": "2019-06-20",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -1215,7 +1261,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -51,
+    "osm_id": -53,
     "osm_type": "node",
     "ref_id": "1374",
     "tags.communication:mobile_phone": "yes",
@@ -1223,29 +1269,6 @@
     "tags.operator": "Telecom Italia Mobile",
     "tags.source": "RAFVG",
     "tags.start_date": "2014-03-25",
-    "tags.tower:type": "communication"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     12.543094,
-     45.896141
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -52,
-    "osm_type": "node",
-    "ref_id": "1385",
-    "tags.communication:mobile_phone": "yes",
-    "tags.man_made": "mast",
-    "tags.operator": "Vodafone Omnitel",
-    "tags.source": "RAFVG",
-    "tags.start_date": "2014-05-05",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -1261,7 +1284,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -53,
+    "osm_id": -54,
     "osm_type": "node",
     "ref_id": "1389",
     "tags.communication:mobile_phone": "yes",
@@ -1284,7 +1307,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -54,
+    "osm_id": -55,
     "osm_type": "node",
     "ref_id": "1390",
     "tags.communication:mobile_phone": "yes",
@@ -1292,52 +1315,6 @@
     "tags.operator": "Telecom Italia Mobile",
     "tags.source": "RAFVG",
     "tags.start_date": "2014-03-14",
-    "tags.tower:type": "communication"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     12.709662,
-     46.152993
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -55,
-    "osm_type": "node",
-    "ref_id": "1394",
-    "tags.communication:mobile_phone": "yes",
-    "tags.man_made": "mast",
-    "tags.operator": "Vodafone Omnitel",
-    "tags.source": "RAFVG",
-    "tags.start_date": "2014-04-02",
-    "tags.tower:type": "communication"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     12.705734,
-     45.912587
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -56,
-    "osm_type": "node",
-    "ref_id": "1406",
-    "tags.communication:mobile_phone": "yes",
-    "tags.man_made": "mast",
-    "tags.operator": "Telecom Italia Mobile",
-    "tags.source": "RAFVG",
-    "tags.start_date": "2014-08-22",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -1353,7 +1330,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -57,
+    "osm_id": -56,
     "osm_type": "node",
     "ref_id": "1411",
     "tags.communication:mobile_phone": "yes",
@@ -1376,7 +1353,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -58,
+    "osm_id": -57,
     "osm_type": "node",
     "ref_id": "1416",
     "tags.communication:mobile_phone": "yes",
@@ -1384,6 +1361,98 @@
     "tags.operator": "Wind-tre",
     "tags.source": "RAFVG",
     "tags.start_date": "2003-12-11",
+    "tags.tower:type": "communication"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.520461,
+     46.107223
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -58,
+    "osm_type": "node",
+    "ref_id": "1433",
+    "tags.communication:mobile_phone": "yes",
+    "tags.man_made": "mast",
+    "tags.operator": "Telecom Italia Mobile",
+    "tags.source": "RAFVG",
+    "tags.start_date": "2014-07-11",
+    "tags.tower:type": "communication"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.863632,
+     45.870018
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -59,
+    "osm_type": "node",
+    "ref_id": "1434",
+    "tags.communication:mobile_phone": "yes",
+    "tags.man_made": "mast",
+    "tags.operator": "Telecom Italia Mobile",
+    "tags.source": "RAFVG",
+    "tags.start_date": "2017-09-07",
+    "tags.tower:type": "communication"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.562296,
+     45.843389
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -60,
+    "osm_type": "node",
+    "ref_id": "1443",
+    "tags.communication:mobile_phone": "yes",
+    "tags.man_made": "mast",
+    "tags.operator": "Vodafone Omnitel",
+    "tags.source": "RAFVG",
+    "tags.start_date": "2015-01-07",
+    "tags.tower:type": "communication"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.705734,
+     45.912587
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -61,
+    "osm_type": "node",
+    "ref_id": "1444",
+    "tags.communication:mobile_phone": "yes",
+    "tags.man_made": "mast",
+    "tags.operator": "Vodafone Omnitel",
+    "tags.source": "RAFVG",
+    "tags.start_date": "2014-08-22",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -1399,7 +1468,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -59,
+    "osm_id": -62,
     "osm_type": "node",
     "ref_id": "1448",
     "tags.communication:mobile_phone": "yes",
@@ -1422,7 +1491,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -60,
+    "osm_id": -63,
     "osm_type": "node",
     "ref_id": "1452",
     "tags.communication:mobile_phone": "yes",
@@ -1445,7 +1514,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -61,
+    "osm_id": -64,
     "osm_type": "node",
     "ref_id": "1453",
     "tags.communication:mobile_phone": "yes",
@@ -1453,29 +1522,6 @@
     "tags.operator": "Vodafone Omnitel",
     "tags.source": "RAFVG",
     "tags.start_date": "2014-08-07",
-    "tags.tower:type": "communication"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     12.585072,
-     46.070176
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -62,
-    "osm_type": "node",
-    "ref_id": "1461",
-    "tags.communication:mobile_phone": "yes",
-    "tags.man_made": "mast",
-    "tags.operator": "Vodafone Omnitel",
-    "tags.source": "RAFVG",
-    "tags.start_date": "2014-11-04",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -1491,7 +1537,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -63,
+    "osm_id": -65,
     "osm_type": "node",
     "ref_id": "1473",
     "tags.communication:mobile_phone": "yes",
@@ -1499,6 +1545,29 @@
     "tags.operator": "Telecom Italia Mobile",
     "tags.source": "RAFVG",
     "tags.start_date": "2014-03-21",
+    "tags.tower:type": "communication"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.873783,
+     45.916471
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -66,
+    "osm_type": "node",
+    "ref_id": "1475",
+    "tags.communication:mobile_phone": "yes",
+    "tags.man_made": "mast",
+    "tags.operator": "Vodafone Omnitel",
+    "tags.source": "RAFVG",
+    "tags.start_date": "2015-09-09",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -1514,7 +1583,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -64,
+    "osm_id": -67,
     "osm_type": "node",
     "ref_id": "1488",
     "tags.communication:mobile_phone": "yes",
@@ -1522,29 +1591,6 @@
     "tags.operator": "Vodafone Omnitel",
     "tags.source": "RAFVG",
     "tags.start_date": "2014-08-25",
-    "tags.tower:type": "communication"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     12.797038,
-     46.203926
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -65,
-    "osm_type": "node",
-    "ref_id": "1498",
-    "tags.communication:mobile_phone": "yes",
-    "tags.man_made": "mast",
-    "tags.operator": "Telecom Italia Mobile",
-    "tags.source": "RAFVG",
-    "tags.start_date": "2014-07-03",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -1560,7 +1606,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -66,
+    "osm_id": -68,
     "osm_type": "node",
     "ref_id": "1509",
     "tags.communication:mobile_phone": "yes",
@@ -1583,7 +1629,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -67,
+    "osm_id": -69,
     "osm_type": "node",
     "ref_id": "1523",
     "tags.communication:mobile_phone": "yes",
@@ -1606,7 +1652,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -68,
+    "osm_id": -70,
     "osm_type": "node",
     "ref_id": "1528",
     "tags.communication:mobile_phone": "yes",
@@ -1629,7 +1675,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -69,
+    "osm_id": -71,
     "osm_type": "node",
     "ref_id": "1531",
     "tags.communication:mobile_phone": "yes",
@@ -1652,7 +1698,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -70,
+    "osm_id": -72,
     "osm_type": "node",
     "ref_id": "1537",
     "tags.communication:mobile_phone": "yes",
@@ -1675,7 +1721,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -71,
+    "osm_id": -73,
     "osm_type": "node",
     "ref_id": "154",
     "tags.communication:mobile_phone": "yes",
@@ -1690,22 +1736,22 @@
   {
    "geometry": {
     "coordinates": [
-     12.586211,
-     45.985904
+     12.539535,
+     46.046487
     ],
     "type": "Point"
    },
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -72,
+    "osm_id": -74,
     "osm_type": "node",
-    "ref_id": "1558",
+    "ref_id": "1566",
     "tags.communication:mobile_phone": "yes",
     "tags.man_made": "mast",
     "tags.operator": "Telecom Italia Mobile",
     "tags.source": "RAFVG",
-    "tags.start_date": "2017-10-25",
+    "tags.start_date": "2015-08-04",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -1713,22 +1759,22 @@
   {
    "geometry": {
     "coordinates": [
-     12.774684,
-     45.954905
+     12.682205,
+     46.028618
     ],
     "type": "Point"
    },
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -73,
+    "osm_id": -75,
     "osm_type": "node",
-    "ref_id": "1569",
+    "ref_id": "1577",
     "tags.communication:mobile_phone": "yes",
     "tags.man_made": "mast",
-    "tags.operator": "Vodafone Omnitel",
+    "tags.operator": "Telecom Italia Mobile",
     "tags.source": "RAFVG",
-    "tags.start_date": "2015-06-22",
+    "tags.start_date": "2015-11-25",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -1744,7 +1790,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -74,
+    "osm_id": -76,
     "osm_type": "node",
     "ref_id": "1582",
     "tags.communication:mobile_phone": "yes",
@@ -1767,14 +1813,14 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -75,
+    "osm_id": -77,
     "osm_type": "node",
-    "ref_id": "1589",
+    "ref_id": "1585",
     "tags.communication:mobile_phone": "yes",
     "tags.man_made": "mast",
-    "tags.operator": "Telecom Italia Mobile",
+    "tags.operator": "Vodafone Omnitel",
     "tags.source": "RAFVG",
-    "tags.start_date": "2015-10-29",
+    "tags.start_date": "2015-12-29",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -1790,7 +1836,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -76,
+    "osm_id": -78,
     "osm_type": "node",
     "ref_id": "1592",
     "tags.communication:mobile_phone": "yes",
@@ -1805,22 +1851,22 @@
   {
    "geometry": {
     "coordinates": [
-     12.883545,
-     45.858761
+     12.467544,
+     45.944217
     ],
     "type": "Point"
    },
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -77,
+    "osm_id": -79,
     "osm_type": "node",
-    "ref_id": "1608",
+    "ref_id": "1630",
     "tags.communication:mobile_phone": "yes",
     "tags.man_made": "mast",
     "tags.operator": "Vodafone Omnitel",
     "tags.source": "RAFVG",
-    "tags.start_date": "2015-05-29",
+    "tags.start_date": "2014-09-01",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -1836,7 +1882,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -78,
+    "osm_id": -80,
     "osm_type": "node",
     "ref_id": "1632",
     "tags.communication:mobile_phone": "yes",
@@ -1844,29 +1890,6 @@
     "tags.operator": "Telecom Italia Mobile",
     "tags.source": "RAFVG",
     "tags.start_date": "2018-08-10",
-    "tags.tower:type": "communication"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     12.547987,
-     45.992916
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -79,
-    "osm_type": "node",
-    "ref_id": "1643",
-    "tags.communication:mobile_phone": "yes",
-    "tags.man_made": "mast",
-    "tags.operator": "Altro Gestore",
-    "tags.source": "RAFVG",
-    "tags.start_date": "2016-08-03",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -1882,7 +1905,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -80,
+    "osm_id": -81,
     "osm_type": "node",
     "ref_id": "1646",
     "tags.communication:mobile_phone": "yes",
@@ -1890,52 +1913,6 @@
     "tags.operator": "Telecom Italia Mobile",
     "tags.source": "RAFVG",
     "tags.start_date": "2015-05-07",
-    "tags.tower:type": "communication"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     12.798059,
-     45.975353
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -81,
-    "osm_type": "node",
-    "ref_id": "1669",
-    "tags.communication:mobile_phone": "yes",
-    "tags.man_made": "mast",
-    "tags.operator": "Vodafone Omnitel",
-    "tags.source": "RAFVG",
-    "tags.start_date": "2014-06-17",
-    "tags.tower:type": "communication"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     12.857491,
-     46.194671
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -82,
-    "osm_type": "node",
-    "ref_id": "1671",
-    "tags.communication:mobile_phone": "yes",
-    "tags.man_made": "mast",
-    "tags.operator": "Telecom Italia Mobile",
-    "tags.source": "RAFVG",
-    "tags.start_date": "2014-03-17",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -1951,7 +1928,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -83,
+    "osm_id": -82,
     "osm_type": "node",
     "ref_id": "1672",
     "tags.communication:mobile_phone": "yes",
@@ -1974,7 +1951,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -84,
+    "osm_id": -83,
     "osm_type": "node",
     "ref_id": "1687",
     "tags.communication:mobile_phone": "yes",
@@ -1982,6 +1959,52 @@
     "tags.operator": "Vodafone Omnitel",
     "tags.source": "RAFVG",
     "tags.start_date": "2014-12-17",
+    "tags.tower:type": "communication"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.798059,
+     45.975353
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -84,
+    "osm_type": "node",
+    "ref_id": "1692",
+    "tags.communication:mobile_phone": "yes",
+    "tags.man_made": "mast",
+    "tags.operator": "Telecom Italia Mobile",
+    "tags.source": "RAFVG",
+    "tags.start_date": "2014-06-17",
+    "tags.tower:type": "communication"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.704927,
+     45.918497
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -85,
+    "osm_type": "node",
+    "ref_id": "1694",
+    "tags.communication:mobile_phone": "yes",
+    "tags.man_made": "mast",
+    "tags.operator": "Vodafone Omnitel",
+    "tags.source": "RAFVG",
+    "tags.start_date": "2014-09-01",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -1997,7 +2020,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -85,
+    "osm_id": -86,
     "osm_type": "node",
     "ref_id": "1695",
     "tags.communication:mobile_phone": "yes",
@@ -2020,7 +2043,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -86,
+    "osm_id": -87,
     "osm_type": "node",
     "ref_id": "1702",
     "tags.communication:mobile_phone": "yes",
@@ -2043,7 +2066,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -87,
+    "osm_id": -88,
     "osm_type": "node",
     "ref_id": "1716",
     "tags.communication:mobile_phone": "yes",
@@ -2066,7 +2089,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -88,
+    "osm_id": -89,
     "osm_type": "node",
     "ref_id": "1718",
     "tags.communication:mobile_phone": "yes",
@@ -2074,6 +2097,29 @@
     "tags.operator": "Wind-tre",
     "tags.source": "RAFVG",
     "tags.start_date": "2014-05-27",
+    "tags.tower:type": "communication"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.709061,
+     45.981858
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -90,
+    "osm_type": "node",
+    "ref_id": "1728",
+    "tags.communication:mobile_phone": "yes",
+    "tags.man_made": "mast",
+    "tags.operator": "Vodafone Omnitel",
+    "tags.source": "RAFVG",
+    "tags.start_date": "2014-01-30",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -2089,7 +2135,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -89,
+    "osm_id": -91,
     "osm_type": "node",
     "ref_id": "173",
     "tags.communication:mobile_phone": "yes",
@@ -2112,7 +2158,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -90,
+    "osm_id": -92,
     "osm_type": "node",
     "ref_id": "1730",
     "tags.communication:mobile_phone": "yes",
@@ -2135,7 +2181,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -91,
+    "osm_id": -93,
     "osm_type": "node",
     "ref_id": "1741",
     "tags.communication:mobile_phone": "yes",
@@ -2143,29 +2189,6 @@
     "tags.operator": "Telecom Italia Mobile",
     "tags.source": "RAFVG",
     "tags.start_date": "2014-06-23",
-    "tags.tower:type": "communication"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     12.701594,
-     45.989147
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -92,
-    "osm_type": "node",
-    "ref_id": "1744",
-    "tags.communication:mobile_phone": "yes",
-    "tags.man_made": "mast",
-    "tags.operator": "Telecom Italia Mobile",
-    "tags.source": "RAFVG",
-    "tags.start_date": "2012-08-27",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -2181,7 +2204,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -93,
+    "osm_id": -94,
     "osm_type": "node",
     "ref_id": "1754",
     "tags.communication:mobile_phone": "yes",
@@ -2189,29 +2212,6 @@
     "tags.operator": "Telecom Italia Mobile",
     "tags.source": "RAFVG",
     "tags.start_date": "2004-01-08",
-    "tags.tower:type": "communication"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     12.603017,
-     46.064303
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -94,
-    "osm_type": "node",
-    "ref_id": "1757",
-    "tags.communication:mobile_phone": "yes",
-    "tags.man_made": "mast",
-    "tags.operator": "Telecom Italia Mobile",
-    "tags.source": "RAFVG",
-    "tags.start_date": "2014-04-09",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -2242,8 +2242,8 @@
   {
    "geometry": {
     "coordinates": [
-     12.539535,
-     46.046487
+     12.80145,
+     46.296648
     ],
     "type": "Point"
    },
@@ -2252,12 +2252,12 @@
     "marker-color": "#11dd11",
     "osm_id": -96,
     "osm_type": "node",
-    "ref_id": "1770",
+    "ref_id": "1769",
     "tags.communication:mobile_phone": "yes",
     "tags.man_made": "mast",
-    "tags.operator": "Vodafone Omnitel",
+    "tags.operator": "Telecom Italia Mobile",
     "tags.source": "RAFVG",
-    "tags.start_date": "2014-08-22",
+    "tags.start_date": "2014-08-14",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -2288,8 +2288,8 @@
   {
    "geometry": {
     "coordinates": [
-     12.381986,
-     46.270109
+     12.709662,
+     46.152993
     ],
     "type": "Point"
    },
@@ -2298,12 +2298,12 @@
     "marker-color": "#11dd11",
     "osm_id": -98,
     "osm_type": "node",
-    "ref_id": "1791",
+    "ref_id": "1778",
     "tags.communication:mobile_phone": "yes",
     "tags.man_made": "mast",
     "tags.operator": "Telecom Italia Mobile",
     "tags.source": "RAFVG",
-    "tags.start_date": "2016-12-16",
+    "tags.start_date": "2014-04-02",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -2495,6 +2495,29 @@
   {
    "geometry": {
     "coordinates": [
+     12.646326,
+     46.070744
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -107,
+    "osm_type": "node",
+    "ref_id": "1850",
+    "tags.communication:mobile_phone": "yes",
+    "tags.man_made": "mast",
+    "tags.operator": "Vodafone Omnitel",
+    "tags.source": "RAFVG",
+    "tags.start_date": "2015-01-13",
+    "tags.tower:type": "communication"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      12.654781,
      45.94854
     ],
@@ -2503,7 +2526,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -107,
+    "osm_id": -108,
     "osm_type": "node",
     "ref_id": "1852",
     "tags.communication:mobile_phone": "yes",
@@ -2526,7 +2549,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -108,
+    "osm_id": -109,
     "osm_type": "node",
     "ref_id": "1860",
     "tags.communication:mobile_phone": "yes",
@@ -2534,29 +2557,6 @@
     "tags.operator": "Altro Gestore",
     "tags.source": "RAFVG",
     "tags.start_date": "2016-10-03",
-    "tags.tower:type": "communication"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     12.503225,
-     45.933114
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -109,
-    "osm_type": "node",
-    "ref_id": "1862",
-    "tags.communication:mobile_phone": "yes",
-    "tags.man_made": "mast",
-    "tags.operator": "Vodafone Omnitel",
-    "tags.source": "RAFVG",
-    "tags.start_date": "2015-07-06",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -2633,8 +2633,8 @@
   {
    "geometry": {
     "coordinates": [
-     12.945261,
-     46.182736
+     12.503225,
+     45.933114
     ],
     "type": "Point"
    },
@@ -2643,12 +2643,12 @@
     "marker-color": "#11dd11",
     "osm_id": -113,
     "osm_type": "node",
-    "ref_id": "1891",
+    "ref_id": "1890",
     "tags.communication:mobile_phone": "yes",
     "tags.man_made": "mast",
     "tags.operator": "Telecom Italia Mobile",
     "tags.source": "RAFVG",
-    "tags.start_date": "2014-02-27",
+    "tags.start_date": "2014-04-03",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -2771,6 +2771,29 @@
   {
    "geometry": {
     "coordinates": [
+     12.945261,
+     46.182736
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -119,
+    "osm_type": "node",
+    "ref_id": "1950",
+    "tags.communication:mobile_phone": "yes",
+    "tags.man_made": "mast",
+    "tags.operator": "Vodafone Omnitel",
+    "tags.source": "RAFVG",
+    "tags.start_date": "2014-02-27",
+    "tags.tower:type": "communication"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      12.709158,
      45.983538
     ],
@@ -2779,7 +2802,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -119,
+    "osm_id": -120,
     "osm_type": "node",
     "ref_id": "1957",
     "tags.communication:mobile_phone": "yes",
@@ -2802,7 +2825,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -120,
+    "osm_id": -121,
     "osm_type": "node",
     "ref_id": "1972",
     "tags.communication:mobile_phone": "yes",
@@ -2810,6 +2833,29 @@
     "tags.operator": "Telecom Italia Mobile",
     "tags.source": "RAFVG",
     "tags.start_date": "2014-07-21",
+    "tags.tower:type": "communication"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.381986,
+     46.270109
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -122,
+    "osm_type": "node",
+    "ref_id": "1973",
+    "tags.communication:mobile_phone": "yes",
+    "tags.man_made": "mast",
+    "tags.operator": "Vodafone Omnitel",
+    "tags.source": "RAFVG",
+    "tags.start_date": "2015-01-12",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -2825,7 +2871,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -121,
+    "osm_id": -123,
     "osm_type": "node",
     "ref_id": "1976",
     "tags.communication:mobile_phone": "yes",
@@ -2848,7 +2894,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -122,
+    "osm_id": -124,
     "osm_type": "node",
     "ref_id": "1986",
     "tags.communication:mobile_phone": "yes",
@@ -2856,6 +2902,52 @@
     "tags.operator": "Vodafone Omnitel",
     "tags.source": "RAFVG",
     "tags.start_date": "2015-08-25",
+    "tags.tower:type": "communication"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.883545,
+     45.858761
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -125,
+    "osm_type": "node",
+    "ref_id": "2",
+    "tags.communication:mobile_phone": "yes",
+    "tags.man_made": "mast",
+    "tags.operator": "Telecom Italia Mobile",
+    "tags.source": "RAFVG",
+    "tags.start_date": "2019-08-30",
+    "tags.tower:type": "communication"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.603017,
+     46.064303
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -126,
+    "osm_type": "node",
+    "ref_id": "2003",
+    "tags.communication:mobile_phone": "yes",
+    "tags.man_made": "mast",
+    "tags.operator": "Vodafone Omnitel",
+    "tags.source": "RAFVG",
+    "tags.start_date": "2014-04-09",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -2871,7 +2963,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -123,
+    "osm_id": -127,
     "osm_type": "node",
     "ref_id": "2006",
     "tags.communication:mobile_phone": "yes",
@@ -2894,7 +2986,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -124,
+    "osm_id": -128,
     "osm_type": "node",
     "ref_id": "2008",
     "tags.communication:mobile_phone": "yes",
@@ -2902,6 +2994,75 @@
     "tags.operator": "Vodafone Omnitel",
     "tags.source": "RAFVG",
     "tags.start_date": "2004-05-18",
+    "tags.tower:type": "communication"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.61829,
+     45.967926
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -129,
+    "osm_type": "node",
+    "ref_id": "2028",
+    "tags.communication:mobile_phone": "yes",
+    "tags.man_made": "mast",
+    "tags.operator": "Vodafone Omnitel",
+    "tags.source": "RAFVG",
+    "tags.start_date": "2015-06-05",
+    "tags.tower:type": "communication"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.518103,
+     46.268807
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -130,
+    "osm_type": "node",
+    "ref_id": "2030",
+    "tags.communication:mobile_phone": "yes",
+    "tags.man_made": "mast",
+    "tags.operator": "Vodafone Omnitel",
+    "tags.source": "RAFVG",
+    "tags.start_date": "2014-01-02",
+    "tags.tower:type": "communication"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.486424,
+     46.03578
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -131,
+    "osm_type": "node",
+    "ref_id": "2043",
+    "tags.communication:mobile_phone": "yes",
+    "tags.man_made": "mast",
+    "tags.operator": "Vodafone Omnitel",
+    "tags.source": "RAFVG",
+    "tags.start_date": "2015-01-23",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -2917,7 +3078,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -125,
+    "osm_id": -132,
     "osm_type": "node",
     "ref_id": "2045",
     "tags.communication:mobile_phone": "yes",
@@ -2940,7 +3101,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -126,
+    "osm_id": -133,
     "osm_type": "node",
     "ref_id": "2050",
     "tags.communication:mobile_phone": "yes",
@@ -2963,7 +3124,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -127,
+    "osm_id": -134,
     "osm_type": "node",
     "ref_id": "2051",
     "tags.communication:mobile_phone": "yes",
@@ -2971,29 +3132,6 @@
     "tags.operator": "Vodafone Omnitel",
     "tags.source": "RAFVG",
     "tags.start_date": "2014-09-02",
-    "tags.tower:type": "communication"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     12.518103,
-     46.268807
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -128,
-    "osm_type": "node",
-    "ref_id": "2053",
-    "tags.communication:mobile_phone": "yes",
-    "tags.man_made": "mast",
-    "tags.operator": "Telecom Italia Mobile",
-    "tags.source": "RAFVG",
-    "tags.start_date": "2017-10-16",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -3009,7 +3147,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -129,
+    "osm_id": -135,
     "osm_type": "node",
     "ref_id": "2057",
     "tags.communication:mobile_phone": "yes",
@@ -3024,22 +3162,45 @@
   {
    "geometry": {
     "coordinates": [
-     12.622948,
-     45.871226
+     12.857491,
+     46.194671
     ],
     "type": "Point"
    },
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -130,
+    "osm_id": -136,
     "osm_type": "node",
-    "ref_id": "2058",
+    "ref_id": "2061",
     "tags.communication:mobile_phone": "yes",
     "tags.man_made": "mast",
     "tags.operator": "Vodafone Omnitel",
     "tags.source": "RAFVG",
-    "tags.start_date": "2014-12-18",
+    "tags.start_date": "2015-05-13",
+    "tags.tower:type": "communication"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.892752,
+     46.119228
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -137,
+    "osm_type": "node",
+    "ref_id": "2083",
+    "tags.communication:mobile_phone": "yes",
+    "tags.man_made": "mast",
+    "tags.operator": "Wind-tre",
+    "tags.source": "RAFVG",
+    "tags.start_date": "2017-04-14",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -3055,7 +3216,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -131,
+    "osm_id": -138,
     "osm_type": "node",
     "ref_id": "2085",
     "tags.communication:mobile_phone": "yes",
@@ -3078,7 +3239,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -132,
+    "osm_id": -139,
     "osm_type": "node",
     "ref_id": "2095",
     "tags.communication:mobile_phone": "yes",
@@ -3101,7 +3262,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -133,
+    "osm_id": -140,
     "osm_type": "node",
     "ref_id": "2098",
     "tags.communication:mobile_phone": "yes",
@@ -3124,7 +3285,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -134,
+    "osm_id": -141,
     "osm_type": "node",
     "ref_id": "2100",
     "tags.communication:mobile_phone": "yes",
@@ -3147,7 +3308,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -135,
+    "osm_id": -142,
     "osm_type": "node",
     "ref_id": "2111",
     "tags.communication:mobile_phone": "yes",
@@ -3170,7 +3331,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -136,
+    "osm_id": -143,
     "osm_type": "node",
     "ref_id": "2129",
     "tags.communication:mobile_phone": "yes",
@@ -3193,7 +3354,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -137,
+    "osm_id": -144,
     "osm_type": "node",
     "ref_id": "2136",
     "tags.communication:mobile_phone": "yes",
@@ -3216,7 +3377,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -138,
+    "osm_id": -145,
     "osm_type": "node",
     "ref_id": "2142",
     "tags.communication:mobile_phone": "yes",
@@ -3239,7 +3400,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -139,
+    "osm_id": -146,
     "osm_type": "node",
     "ref_id": "2156",
     "tags.communication:mobile_phone": "yes",
@@ -3262,7 +3423,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -140,
+    "osm_id": -147,
     "osm_type": "node",
     "ref_id": "2168",
     "tags.communication:mobile_phone": "yes",
@@ -3285,7 +3446,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -141,
+    "osm_id": -148,
     "osm_type": "node",
     "ref_id": "2176",
     "tags.communication:mobile_phone": "yes",
@@ -3293,29 +3454,6 @@
     "tags.operator": "Vodafone Omnitel",
     "tags.source": "RAFVG",
     "tags.start_date": "2014-12-09",
-    "tags.tower:type": "communication"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     12.702676,
-     45.888012
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -142,
-    "osm_type": "node",
-    "ref_id": "2181",
-    "tags.communication:mobile_phone": "yes",
-    "tags.man_made": "mast",
-    "tags.operator": "Vodafone Omnitel",
-    "tags.source": "RAFVG",
-    "tags.start_date": "2014-04-23",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -3331,7 +3469,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -143,
+    "osm_id": -149,
     "osm_type": "node",
     "ref_id": "2182",
     "tags.communication:mobile_phone": "yes",
@@ -3346,22 +3484,22 @@
   {
    "geometry": {
     "coordinates": [
-     12.553046,
-     45.913076
+     12.560581,
+     45.985611
     ],
     "type": "Point"
    },
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -144,
+    "osm_id": -150,
     "osm_type": "node",
-    "ref_id": "2202",
+    "ref_id": "2183",
     "tags.communication:mobile_phone": "yes",
     "tags.man_made": "mast",
     "tags.operator": "Vodafone Omnitel",
     "tags.source": "RAFVG",
-    "tags.start_date": "2014-08-07",
+    "tags.start_date": "2014-07-21",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -3377,7 +3515,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -145,
+    "osm_id": -151,
     "osm_type": "node",
     "ref_id": "2204",
     "tags.communication:mobile_phone": "yes",
@@ -3385,29 +3523,6 @@
     "tags.operator": "Telecom Italia Mobile",
     "tags.source": "RAFVG",
     "tags.start_date": "2007-08-29",
-    "tags.tower:type": "communication"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     12.467544,
-     45.944217
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -146,
-    "osm_type": "node",
-    "ref_id": "2208",
-    "tags.communication:mobile_phone": "yes",
-    "tags.man_made": "mast",
-    "tags.operator": "Telecom Italia Mobile",
-    "tags.source": "RAFVG",
-    "tags.start_date": "2014-08-04",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -3423,7 +3538,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -147,
+    "osm_id": -152,
     "osm_type": "node",
     "ref_id": "2219",
     "tags.communication:mobile_phone": "yes",
@@ -3446,7 +3561,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -148,
+    "osm_id": -153,
     "osm_type": "node",
     "ref_id": "2227",
     "tags.communication:mobile_phone": "yes",
@@ -3469,7 +3584,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -149,
+    "osm_id": -154,
     "osm_type": "node",
     "ref_id": "2231",
     "tags.communication:mobile_phone": "yes",
@@ -3492,7 +3607,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -150,
+    "osm_id": -155,
     "osm_type": "node",
     "ref_id": "2234",
     "tags.communication:mobile_phone": "yes",
@@ -3515,7 +3630,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -151,
+    "osm_id": -156,
     "osm_type": "node",
     "ref_id": "2239",
     "tags.communication:mobile_phone": "yes",
@@ -3538,7 +3653,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -152,
+    "osm_id": -157,
     "osm_type": "node",
     "ref_id": "2248",
     "tags.communication:mobile_phone": "yes",
@@ -3561,7 +3676,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -153,
+    "osm_id": -158,
     "osm_type": "node",
     "ref_id": "2273",
     "tags.communication:mobile_phone": "yes",
@@ -3584,7 +3699,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -154,
+    "osm_id": -159,
     "osm_type": "node",
     "ref_id": "2289",
     "tags.communication:mobile_phone": "yes",
@@ -3606,7 +3721,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -155,
+    "osm_id": -160,
     "osm_type": "node",
     "ref_id": "231",
     "tags.communication:mobile_phone": "yes",
@@ -3614,6 +3729,29 @@
     "tags.operator": "Telecom Italia Mobile",
     "tags.source": "RAFVG",
     "tags.start_date": "2019-12-16",
+    "tags.tower:type": "communication"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.937948,
+     46.227208
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -161,
+    "osm_type": "node",
+    "ref_id": "2314",
+    "tags.communication:mobile_phone": "yes",
+    "tags.man_made": "mast",
+    "tags.operator": "Telecom Italia Mobile",
+    "tags.source": "RAFVG",
+    "tags.start_date": "2020-04-10",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -3629,7 +3767,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -156,
+    "osm_id": -162,
     "osm_type": "node",
     "ref_id": "2334",
     "tags.communication:mobile_phone": "yes",
@@ -3637,6 +3775,29 @@
     "tags.operator": "Wind-tre",
     "tags.source": "RAFVG",
     "tags.start_date": "2020-09-11",
+    "tags.tower:type": "communication"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.63453,
+     45.955449
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -163,
+    "osm_type": "node",
+    "ref_id": "2344",
+    "tags.communication:mobile_phone": "yes",
+    "tags.man_made": "mast",
+    "tags.operator": "Iliad Italia",
+    "tags.source": "RAFVG",
+    "tags.start_date": "2020-04-27",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -3652,7 +3813,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -157,
+    "osm_id": -164,
     "osm_type": "node",
     "ref_id": "2351",
     "tags.communication:mobile_phone": "yes",
@@ -3667,22 +3828,22 @@
   {
    "geometry": {
     "coordinates": [
-     12.704927,
-     45.918497
+     12.547987,
+     45.992916
     ],
     "type": "Point"
    },
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -158,
+    "osm_id": -165,
     "osm_type": "node",
-    "ref_id": "2366",
+    "ref_id": "2365",
     "tags.communication:mobile_phone": "yes",
     "tags.man_made": "mast",
-    "tags.operator": "Iliad Italia",
+    "tags.operator": "Wind-tre",
     "tags.source": "RAFVG",
-    "tags.start_date": "2020-05-07",
+    "tags.start_date": "2020-09-22",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -3698,7 +3859,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -159,
+    "osm_id": -166,
     "osm_type": "node",
     "ref_id": "2375",
     "tags.communication:mobile_phone": "yes",
@@ -3721,7 +3882,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -160,
+    "osm_id": -167,
     "osm_type": "node",
     "ref_id": "2411",
     "tags.communication:mobile_phone": "yes",
@@ -3744,7 +3905,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -161,
+    "osm_id": -168,
     "osm_type": "node",
     "ref_id": "252",
     "tags.communication:mobile_phone": "yes",
@@ -3767,7 +3928,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -162,
+    "osm_id": -169,
     "osm_type": "node",
     "ref_id": "253",
     "tags.communication:mobile_phone": "yes",
@@ -3790,7 +3951,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -163,
+    "osm_id": -170,
     "osm_type": "node",
     "ref_id": "254",
     "tags.communication:mobile_phone": "yes",
@@ -3813,7 +3974,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -164,
+    "osm_id": -171,
     "osm_type": "node",
     "ref_id": "255",
     "tags.communication:mobile_phone": "yes",
@@ -3836,7 +3997,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -165,
+    "osm_id": -172,
     "osm_type": "node",
     "ref_id": "256",
     "tags.communication:mobile_phone": "yes",
@@ -3859,7 +4020,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -166,
+    "osm_id": -173,
     "osm_type": "node",
     "ref_id": "257",
     "tags.communication:mobile_phone": "yes",
@@ -3882,7 +4043,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -167,
+    "osm_id": -174,
     "osm_type": "node",
     "ref_id": "270",
     "tags.communication:mobile_phone": "yes",
@@ -3905,7 +4066,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -168,
+    "osm_id": -175,
     "osm_type": "node",
     "ref_id": "273",
     "tags.communication:mobile_phone": "yes",
@@ -3928,7 +4089,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -169,
+    "osm_id": -176,
     "osm_type": "node",
     "ref_id": "274",
     "tags.communication:mobile_phone": "yes",
@@ -3951,7 +4112,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -170,
+    "osm_id": -177,
     "osm_type": "node",
     "ref_id": "275",
     "tags.communication:mobile_phone": "yes",
@@ -3974,7 +4135,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -171,
+    "osm_id": -178,
     "osm_type": "node",
     "ref_id": "276",
     "tags.communication:mobile_phone": "yes",
@@ -3982,29 +4143,6 @@
     "tags.operator": "Wind-tre",
     "tags.source": "RAFVG",
     "tags.start_date": "2019-06-10",
-    "tags.tower:type": "communication"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     12.682205,
-     46.028618
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -172,
-    "osm_type": "node",
-    "ref_id": "279",
-    "tags.communication:mobile_phone": "yes",
-    "tags.man_made": "mast",
-    "tags.operator": "Wind-tre",
-    "tags.source": "RAFVG",
-    "tags.start_date": "2019-09-02",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -4020,7 +4158,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -173,
+    "osm_id": -179,
     "osm_type": "node",
     "ref_id": "280",
     "tags.communication:mobile_phone": "yes",
@@ -4043,7 +4181,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -174,
+    "osm_id": -180,
     "osm_type": "node",
     "ref_id": "282",
     "tags.communication:mobile_phone": "yes",
@@ -4066,7 +4204,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -175,
+    "osm_id": -181,
     "osm_type": "node",
     "ref_id": "283",
     "tags.communication:mobile_phone": "yes",
@@ -4089,7 +4227,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -176,
+    "osm_id": -182,
     "osm_type": "node",
     "ref_id": "286",
     "tags.communication:mobile_phone": "yes",
@@ -4112,7 +4250,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -177,
+    "osm_id": -183,
     "osm_type": "node",
     "ref_id": "287",
     "tags.communication:mobile_phone": "yes",
@@ -4135,7 +4273,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -178,
+    "osm_id": -184,
     "osm_type": "node",
     "ref_id": "289",
     "tags.communication:mobile_phone": "yes",
@@ -4143,29 +4281,6 @@
     "tags.operator": "Wind-tre",
     "tags.source": "RAFVG",
     "tags.start_date": "2019-06-26",
-    "tags.tower:type": "communication"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     12.63453,
-     45.955449
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -179,
-    "osm_type": "node",
-    "ref_id": "290",
-    "tags.communication:mobile_phone": "yes",
-    "tags.man_made": "mast",
-    "tags.operator": "Wind-tre",
-    "tags.source": "RAFVG",
-    "tags.start_date": "2019-06-28",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -4181,7 +4296,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -180,
+    "osm_id": -185,
     "osm_type": "node",
     "ref_id": "293",
     "tags.communication:mobile_phone": "yes",
@@ -4204,7 +4319,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -181,
+    "osm_id": -186,
     "osm_type": "node",
     "ref_id": "297",
     "tags.communication:mobile_phone": "yes",
@@ -4227,7 +4342,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -182,
+    "osm_id": -187,
     "osm_type": "node",
     "ref_id": "309",
     "tags.communication:mobile_phone": "yes",
@@ -4250,7 +4365,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -183,
+    "osm_id": -188,
     "osm_type": "node",
     "ref_id": "313",
     "tags.communication:mobile_phone": "yes",
@@ -4258,29 +4373,6 @@
     "tags.operator": "Wind-tre",
     "tags.source": "RAFVG",
     "tags.start_date": "2019-07-19",
-    "tags.tower:type": "communication"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     12.65012,
-     45.971467
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -184,
-    "osm_type": "node",
-    "ref_id": "328",
-    "tags.communication:mobile_phone": "yes",
-    "tags.man_made": "mast",
-    "tags.operator": "Wind-tre",
-    "tags.source": "RAFVG",
-    "tags.start_date": "2019-06-28",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -4296,7 +4388,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -185,
+    "osm_id": -189,
     "osm_type": "node",
     "ref_id": "331",
     "tags.communication:mobile_phone": "yes",
@@ -4319,7 +4411,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -186,
+    "osm_id": -190,
     "osm_type": "node",
     "ref_id": "335",
     "tags.communication:mobile_phone": "yes",
@@ -4342,7 +4434,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -187,
+    "osm_id": -191,
     "osm_type": "node",
     "ref_id": "380",
     "tags.communication:mobile_phone": "yes",
@@ -4357,22 +4449,22 @@
   {
    "geometry": {
     "coordinates": [
-     12.755051,
-     46.18163
+     12.711905,
+     46.164897
     ],
     "type": "Point"
    },
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -188,
+    "osm_id": -192,
     "osm_type": "node",
-    "ref_id": "414",
+    "ref_id": "412",
     "tags.communication:mobile_phone": "yes",
     "tags.man_made": "mast",
     "tags.operator": "Telecom Italia Mobile",
     "tags.source": "RAFVG",
-    "tags.start_date": "2019-03-22",
+    "tags.start_date": "2014-09-02",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -4388,7 +4480,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -189,
+    "osm_id": -193,
     "osm_type": "node",
     "ref_id": "421",
     "tags.communication:mobile_phone": "yes",
@@ -4411,7 +4503,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -190,
+    "osm_id": -194,
     "osm_type": "node",
     "ref_id": "44",
     "tags.communication:mobile_phone": "yes",
@@ -4434,7 +4526,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -191,
+    "osm_id": -195,
     "osm_type": "node",
     "ref_id": "451",
     "tags.communication:mobile_phone": "yes",
@@ -4442,29 +4534,6 @@
     "tags.operator": "Wind-tre",
     "tags.source": "RAFVG",
     "tags.start_date": "2019-04-09",
-    "tags.tower:type": "communication"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     12.525023,
-     45.975513
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -192,
-    "osm_type": "node",
-    "ref_id": "458",
-    "tags.communication:mobile_phone": "yes",
-    "tags.man_made": "mast",
-    "tags.operator": "Wind-tre",
-    "tags.source": "RAFVG",
-    "tags.start_date": "2019-07-02",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -4480,7 +4549,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -193,
+    "osm_id": -196,
     "osm_type": "node",
     "ref_id": "461",
     "tags.communication:mobile_phone": "yes",
@@ -4503,7 +4572,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -194,
+    "osm_id": -197,
     "osm_type": "node",
     "ref_id": "464",
     "tags.communication:mobile_phone": "yes",
@@ -4526,7 +4595,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -195,
+    "osm_id": -198,
     "osm_type": "node",
     "ref_id": "465",
     "tags.communication:mobile_phone": "yes",
@@ -4534,6 +4603,29 @@
     "tags.operator": "Wind-tre",
     "tags.source": "RAFVG",
     "tags.start_date": "2019-04-19",
+    "tags.tower:type": "communication"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.525023,
+     45.975513
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -199,
+    "osm_type": "node",
+    "ref_id": "47",
+    "tags.communication:mobile_phone": "yes",
+    "tags.man_made": "mast",
+    "tags.operator": "Iliad Italia",
+    "tags.source": "RAFVG",
+    "tags.start_date": "2020-03-24",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -4549,7 +4641,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -196,
+    "osm_id": -200,
     "osm_type": "node",
     "ref_id": "504",
     "tags.communication:mobile_phone": "yes",
@@ -4572,7 +4664,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -197,
+    "osm_id": -201,
     "osm_type": "node",
     "ref_id": "506",
     "tags.communication:mobile_phone": "yes",
@@ -4595,7 +4687,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -198,
+    "osm_id": -202,
     "osm_type": "node",
     "ref_id": "508",
     "tags.communication:mobile_phone": "yes",
@@ -4618,7 +4710,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -199,
+    "osm_id": -203,
     "osm_type": "node",
     "ref_id": "509",
     "tags.communication:mobile_phone": "yes",
@@ -4641,7 +4733,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -200,
+    "osm_id": -204,
     "osm_type": "node",
     "ref_id": "513",
     "tags.communication:mobile_phone": "yes",
@@ -4664,7 +4756,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -201,
+    "osm_id": -205,
     "osm_type": "node",
     "ref_id": "516",
     "tags.communication:mobile_phone": "yes",
@@ -4687,7 +4779,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -202,
+    "osm_id": -206,
     "osm_type": "node",
     "ref_id": "519",
     "tags.communication:mobile_phone": "yes",
@@ -4710,7 +4802,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -203,
+    "osm_id": -207,
     "osm_type": "node",
     "ref_id": "521",
     "tags.communication:mobile_phone": "yes",
@@ -4733,7 +4825,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -204,
+    "osm_id": -208,
     "osm_type": "node",
     "ref_id": "522",
     "tags.communication:mobile_phone": "yes",
@@ -4741,29 +4833,6 @@
     "tags.operator": "Wind-tre",
     "tags.source": "RAFVG",
     "tags.start_date": "2019-06-20",
-    "tags.tower:type": "communication"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     12.567736,
-     45.871446
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -205,
-    "osm_type": "node",
-    "ref_id": "523",
-    "tags.communication:mobile_phone": "yes",
-    "tags.man_made": "mast",
-    "tags.operator": "Wind-tre",
-    "tags.source": "RAFVG",
-    "tags.start_date": "2019-06-19",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -4779,7 +4848,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -206,
+    "osm_id": -209,
     "osm_type": "node",
     "ref_id": "526",
     "tags.communication:mobile_phone": "yes",
@@ -4802,7 +4871,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -207,
+    "osm_id": -210,
     "osm_type": "node",
     "ref_id": "527",
     "tags.communication:mobile_phone": "yes",
@@ -4825,7 +4894,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -208,
+    "osm_id": -211,
     "osm_type": "node",
     "ref_id": "528",
     "tags.communication:mobile_phone": "yes",
@@ -4848,7 +4917,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -209,
+    "osm_id": -212,
     "osm_type": "node",
     "ref_id": "530",
     "tags.communication:mobile_phone": "yes",
@@ -4871,7 +4940,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -210,
+    "osm_id": -213,
     "osm_type": "node",
     "ref_id": "534",
     "tags.communication:mobile_phone": "yes",
@@ -4886,22 +4955,22 @@
   {
    "geometry": {
     "coordinates": [
-     12.562296,
-     45.843389
+     12.701594,
+     45.989147
     ],
     "type": "Point"
    },
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -211,
+    "osm_id": -214,
     "osm_type": "node",
-    "ref_id": "539",
+    "ref_id": "538",
     "tags.communication:mobile_phone": "yes",
     "tags.man_made": "mast",
-    "tags.operator": "Telecom Italia Mobile",
+    "tags.operator": "Wind-tre",
     "tags.source": "RAFVG",
-    "tags.start_date": "2017-11-15",
+    "tags.start_date": "2019-10-04",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -4917,7 +4986,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -212,
+    "osm_id": -215,
     "osm_type": "node",
     "ref_id": "54",
     "tags.communication:mobile_phone": "yes",
@@ -4940,7 +5009,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -213,
+    "osm_id": -216,
     "osm_type": "node",
     "ref_id": "547",
     "tags.communication:mobile_phone": "yes",
@@ -4963,7 +5032,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -214,
+    "osm_id": -217,
     "osm_type": "node",
     "ref_id": "548",
     "tags.communication:mobile_phone": "yes",
@@ -4971,6 +5040,29 @@
     "tags.operator": "Wind-tre",
     "tags.source": "RAFVG",
     "tags.start_date": "2019-08-20",
+    "tags.tower:type": "communication"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.622948,
+     45.871226
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -218,
+    "osm_type": "node",
+    "ref_id": "549",
+    "tags.communication:mobile_phone": "yes",
+    "tags.man_made": "mast",
+    "tags.operator": "Wind-tre",
+    "tags.source": "RAFVG",
+    "tags.start_date": "2019-09-13",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -4986,7 +5078,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -215,
+    "osm_id": -219,
     "osm_type": "node",
     "ref_id": "552",
     "tags.communication:mobile_phone": "yes",
@@ -5009,7 +5101,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -216,
+    "osm_id": -220,
     "osm_type": "node",
     "ref_id": "553",
     "tags.communication:mobile_phone": "yes",
@@ -5032,7 +5124,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -217,
+    "osm_id": -221,
     "osm_type": "node",
     "ref_id": "557",
     "tags.communication:mobile_phone": "yes",
@@ -5055,7 +5147,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -218,
+    "osm_id": -222,
     "osm_type": "node",
     "ref_id": "558",
     "tags.communication:mobile_phone": "yes",
@@ -5063,29 +5155,6 @@
     "tags.operator": "Wind-tre",
     "tags.source": "RAFVG",
     "tags.start_date": "2019-04-09",
-    "tags.tower:type": "communication"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     12.873783,
-     45.916471
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -219,
-    "osm_type": "node",
-    "ref_id": "559",
-    "tags.communication:mobile_phone": "yes",
-    "tags.man_made": "mast",
-    "tags.operator": "Wind-tre",
-    "tags.source": "RAFVG",
-    "tags.start_date": "2019-05-08",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -5101,7 +5170,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -220,
+    "osm_id": -223,
     "osm_type": "node",
     "ref_id": "561",
     "tags.communication:mobile_phone": "yes",
@@ -5124,7 +5193,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -221,
+    "osm_id": -224,
     "osm_type": "node",
     "ref_id": "562",
     "tags.communication:mobile_phone": "yes",
@@ -5147,7 +5216,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -222,
+    "osm_id": -225,
     "osm_type": "node",
     "ref_id": "568",
     "tags.communication:mobile_phone": "yes",
@@ -5170,7 +5239,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -223,
+    "osm_id": -226,
     "osm_type": "node",
     "ref_id": "576",
     "tags.communication:mobile_phone": "yes",
@@ -5178,29 +5247,6 @@
     "tags.operator": "Iliad Italia",
     "tags.source": "RAFVG",
     "tags.start_date": "2019-06-14",
-    "tags.tower:type": "communication"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     12.476668,
-     45.981681
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -224,
-    "osm_type": "node",
-    "ref_id": "58",
-    "tags.communication:mobile_phone": "yes",
-    "tags.man_made": "mast",
-    "tags.operator": "Iliad Italia",
-    "tags.source": "RAFVG",
-    "tags.start_date": "2020-04-03",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -5216,7 +5262,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -225,
+    "osm_id": -227,
     "osm_type": "node",
     "ref_id": "581",
     "tags.communication:mobile_phone": "yes",
@@ -5239,7 +5285,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -226,
+    "osm_id": -228,
     "osm_type": "node",
     "ref_id": "582",
     "tags.communication:mobile_phone": "yes",
@@ -5247,52 +5293,6 @@
     "tags.operator": "Wind-tre",
     "tags.source": "RAFVG",
     "tags.start_date": "2019-06-14",
-    "tags.tower:type": "communication"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     12.80145,
-     46.296648
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -227,
-    "osm_type": "node",
-    "ref_id": "586",
-    "tags.communication:mobile_phone": "yes",
-    "tags.man_made": "mast",
-    "tags.operator": "Wind-tre",
-    "tags.source": "RAFVG",
-    "tags.start_date": "2017-05-30",
-    "tags.tower:type": "communication"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     12.716425,
-     45.88332
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -228,
-    "osm_type": "node",
-    "ref_id": "587",
-    "tags.communication:mobile_phone": "yes",
-    "tags.man_made": "mast",
-    "tags.operator": "Wind-tre",
-    "tags.source": "RAFVG",
-    "tags.start_date": "2019-06-21",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -5392,6 +5392,52 @@
   {
    "geometry": {
     "coordinates": [
+     12.567736,
+     45.871446
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -233,
+    "osm_type": "node",
+    "ref_id": "672",
+    "tags.communication:mobile_phone": "yes",
+    "tags.man_made": "mast",
+    "tags.operator": "Iliad Italia",
+    "tags.source": "RAFVG",
+    "tags.start_date": "2020-03-24",
+    "tags.tower:type": "communication"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.650169,
+     45.971484
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -234,
+    "osm_type": "node",
+    "ref_id": "674",
+    "tags.communication:mobile_phone": "yes",
+    "tags.man_made": "mast",
+    "tags.operator": "Iliad Italia",
+    "tags.source": "RAFVG",
+    "tags.start_date": "2019-06-25",
+    "tags.tower:type": "communication"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      12.501259,
      45.958883
     ],
@@ -5400,7 +5446,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -233,
+    "osm_id": -235,
     "osm_type": "node",
     "ref_id": "699",
     "tags.communication:mobile_phone": "yes",
@@ -5423,7 +5469,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -234,
+    "osm_id": -236,
     "osm_type": "node",
     "ref_id": "709",
     "tags.communication:mobile_phone": "yes",
@@ -5446,7 +5492,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -235,
+    "osm_id": -237,
     "osm_type": "node",
     "ref_id": "719",
     "tags.communication:mobile_phone": "yes",
@@ -5469,7 +5515,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -236,
+    "osm_id": -238,
     "osm_type": "node",
     "ref_id": "746",
     "tags.communication:mobile_phone": "yes",
@@ -5492,7 +5538,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -237,
+    "osm_id": -239,
     "osm_type": "node",
     "ref_id": "754",
     "tags.communication:mobile_phone": "yes",
@@ -5515,7 +5561,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -238,
+    "osm_id": -240,
     "osm_type": "node",
     "ref_id": "85",
     "tags.communication:mobile_phone": "yes",
@@ -5538,7 +5584,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -239,
+    "osm_id": -241,
     "osm_type": "node",
     "ref_id": "882",
     "tags.communication:mobile_phone": "yes",
@@ -5546,29 +5592,6 @@
     "tags.operator": "Telecom Italia Mobile",
     "tags.source": "RAFVG",
     "tags.start_date": "2013-10-21",
-    "tags.tower:type": "communication"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     12.937948,
-     46.227208
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -240,
-    "osm_type": "node",
-    "ref_id": "885",
-    "tags.communication:mobile_phone": "yes",
-    "tags.man_made": "mast",
-    "tags.operator": "Vodafone Omnitel",
-    "tags.source": "RAFVG",
-    "tags.start_date": "2014-03-06",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -5584,7 +5607,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -241,
+    "osm_id": -242,
     "osm_type": "node",
     "ref_id": "887",
     "tags.communication:mobile_phone": "yes",
@@ -5607,7 +5630,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -242,
+    "osm_id": -243,
     "osm_type": "node",
     "ref_id": "889",
     "tags.communication:mobile_phone": "yes",
@@ -5630,7 +5653,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -243,
+    "osm_id": -244,
     "osm_type": "node",
     "ref_id": "890",
     "tags.communication:mobile_phone": "yes",
@@ -5653,7 +5676,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -244,
+    "osm_id": -245,
     "osm_type": "node",
     "ref_id": "907",
     "tags.communication:mobile_phone": "yes",
@@ -5676,7 +5699,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -245,
+    "osm_id": -246,
     "osm_type": "node",
     "ref_id": "912",
     "tags.communication:mobile_phone": "yes",
@@ -5691,31 +5714,8 @@
   {
    "geometry": {
     "coordinates": [
-     12.486424,
-     46.03578
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -246,
-    "osm_type": "node",
-    "ref_id": "917",
-    "tags.communication:mobile_phone": "yes",
-    "tags.man_made": "mast",
-    "tags.operator": "Telecom Italia Mobile",
-    "tags.source": "RAFVG",
-    "tags.start_date": "2017-10-25",
-    "tags.tower:type": "communication"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     12.646326,
-     46.070744
+     12.716425,
+     45.88332
     ],
     "type": "Point"
    },
@@ -5724,12 +5724,12 @@
     "marker-color": "#11dd11",
     "osm_id": -247,
     "osm_type": "node",
-    "ref_id": "922",
+    "ref_id": "919",
     "tags.communication:mobile_phone": "yes",
     "tags.man_made": "mast",
     "tags.operator": "Telecom Italia Mobile",
     "tags.source": "RAFVG",
-    "tags.start_date": "2017-11-07",
+    "tags.start_date": "2015-02-19",
     "tags.tower:type": "communication"
    },
    "type": "Feature"
@@ -5737,8 +5737,8 @@
   {
    "geometry": {
     "coordinates": [
-     12.469786,
-     46.263363
+     12.585072,
+     46.070176
     ],
     "type": "Point"
    },
@@ -5747,12 +5747,12 @@
     "marker-color": "#11dd11",
     "osm_id": -248,
     "osm_type": "node",
-    "ref_id": "927",
+    "ref_id": "925",
     "tags.communication:mobile_phone": "yes",
     "tags.man_made": "mast",
-    "tags.operator": "Vodafone Omnitel",
+    "tags.operator": "Telecom Italia Mobile",
     "tags.source": "RAFVG",
-    "tags.start_date": "2016-04-22",
+    "tags.start_date": "2012-06-01",
     "tags.tower:type": "communication"
    },
    "type": "Feature"

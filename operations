@@ -1,0 +1,109 @@
+[
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column DATA using expression value.toDate()",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "DATA",
+    "expression": "value.toDate()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column X using expression grel:round(toNumber(value)*1000000)/1000000.0",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "X",
+    "expression": "grel:round(toNumber(value)*1000000)/1000000.0",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column Y using expression grel:round(toNumber(value)*1000000)/1000000.0",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Y",
+    "expression": "grel:round(toNumber(value)*1000000)/1000000.0",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column OPERATORE using expression value.toTitlecase()",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "OPERATORE",
+    "expression": "value.toTitlecase()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column id at index 1 based on column X using expression grel:rowIndex",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "STATO ATTIVAZIONE",
+          "expression": "value",
+          "columnName": "STATO ATTIVAZIONE",
+          "invert": false,
+          "selection": [
+            {
+              "v": {
+                "v": "REALIZZATO",
+                "l": "REALIZZATO"
+              }
+            }
+          ],
+          "selectNumber": false,
+          "selectDateTime": false,
+          "selectBoolean": false,
+          "omitBlank": false,
+          "selectBlank": false,
+          "omitError": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "newColumnName": "id",
+    "columnInsertIndex": 1,
+    "baseColumnName": "X",
+    "expression": "grel:rowIndex",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column id to position 0",
+    "columnName": "id",
+    "index": 0
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column DATA using expression grel:split(value, \"T\")[0]",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "DATA",
+    "expression": "grel:split(value, \"T\")[0]",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  }
+]
