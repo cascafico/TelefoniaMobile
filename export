@@ -1,0 +1,14 @@
+    {
+      "id"  : {{(cells["id"].value)}},
+      "lat" : {{(cells["Y"].value)}},
+      "lon" : {{(cells["X"].value)}},
+      "tags" : {
+               "operator" : {{jsonize(cells["OPERATORE"].value)}},
+               "construction" : {{jsonize(cells["construction"].value)}},
+               "start_date" : {{jsonize(cells["DATA"].value)}},
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+

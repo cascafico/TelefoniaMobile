@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2021-03-17T09:12:17Z" areas="2021-03-17T07:35:42Z"/>
+
+  <node id="2495055713" lat="45.8490047" lon="12.8921769" version="3" timestamp="2019-03-16T10:06:49Z" changeset="68199029" uid="9535891" user="Archimede81">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="owner" v="WIND"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3140418885" lat="46.0018797" lon="12.8603167" version="2" timestamp="2019-06-26T10:06:28Z" changeset="71630192" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="728"/>
+    <tag k="start_date" v="2017-03-16"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3506974370" lat="46.1154801" lon="12.6157301" version="4" timestamp="2015-08-09T15:11:44Z" changeset="33221070" uid="2809108" user="Flavio61">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3688187924" lat="46.1495677" lon="12.6153188" version="1" timestamp="2015-08-09T15:11:44Z" changeset="33221070" uid="2809108" user="Flavio61">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3880999149" lat="46.0070176" lon="12.4365841" version="1" timestamp="2015-12-06T22:04:34Z" changeset="35795765" uid="281699" user="hobbie">
+    <tag k="communication:microwave" v="yes"/>
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="communication:mobile_phone_1" v="yes"/>
+    <tag k="communication:radio" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3880999150" lat="46.0074634" lon="12.4356034" version="2" timestamp="2015-12-06T22:05:59Z" changeset="35795786" uid="281699" user="hobbie">
+    <tag k="communication:microwave" v="yes"/>
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="communication:mobile_phone_1" v="yes"/>
+    <tag k="communication:radio" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3880999603" lat="46.0072658" lon="12.4358939" version="1" timestamp="2015-12-06T22:05:59Z" changeset="35795786" uid="281699" user="hobbie">
+    <tag k="communication:microwave" v="yes"/>
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="communication:mobile_phone_1" v="yes"/>
+    <tag k="communication:radio" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4144980076" lat="46.1417594" lon="12.7832620" version="1" timestamp="2016-04-24T18:42:22Z" changeset="38839950" uid="3284814" user="goliajr">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4406951416" lat="46.1267160" lon="12.6043804" version="1" timestamp="2016-09-18T15:27:07Z" changeset="42249673" uid="2809108" user="Flavio61">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6341112933" lat="45.8462761" lon="12.8844436" version="2" timestamp="2020-02-05T12:37:08Z" changeset="80588425" uid="15905" user="lucalp">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="description" v="H3G"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6572153636" lat="45.8909300" lon="12.6908300" version="1" timestamp="2019-06-26T10:10:57Z" changeset="71630358" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="437"/>
+    <tag k="start_date" v="2019-04-19"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6572153637" lat="45.8495300" lon="12.7075000" version="1" timestamp="2019-06-26T10:10:57Z" changeset="71630358" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="460"/>
+    <tag k="start_date" v="2019-04-19"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6572153638" lat="45.8772400" lon="12.7070400" version="1" timestamp="2019-06-26T10:10:57Z" changeset="71630358" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="469"/>
+    <tag k="start_date" v="2019-04-24"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6572153639" lat="45.8767800" lon="12.7163600" version="1" timestamp="2019-06-26T10:10:57Z" changeset="71630358" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="473"/>
+    <tag k="start_date" v="2016-11-29"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6572205672" lat="45.9490500" lon="12.4818800" version="1" timestamp="2019-06-26T10:13:36Z" changeset="71630460" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="40"/>
+    <tag k="start_date" v="2019-04-09"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6572205673" lat="45.9501900" lon="12.5081500" version="1" timestamp="2019-06-26T10:13:36Z" changeset="71630460" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="68"/>
+    <tag k="start_date" v="2019-04-08"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6572205674" lat="45.8988100" lon="12.5332500" version="1" timestamp="2019-06-26T10:13:36Z" changeset="71630460" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="117"/>
+    <tag k="start_date" v="2016-01-22"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6572205675" lat="45.8871800" lon="12.5735800" version="1" timestamp="2019-06-26T10:13:36Z" changeset="71630460" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="174"/>
+    <tag k="start_date" v=""/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6572205676" lat="45.8912800" lon="12.5937000" version="1" timestamp="2019-06-26T10:13:36Z" changeset="71630460" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="209"/>
+    <tag k="start_date" v="2019-04-23"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6572208131" lat="45.9526560" lon="12.8445360" version="1" timestamp="2019-06-26T10:06:28Z" changeset="71630192" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="672"/>
+    <tag k="start_date" v="2019-03-19"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6572208132" lat="46.0218310" lon="12.8470190" version="1" timestamp="2019-06-26T10:06:28Z" changeset="71630192" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="700"/>
+    <tag k="start_date" v="2019-04-23"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6572210270" lat="45.9272600" lon="12.7481800" version="2" timestamp="2020-04-19T16:27:25Z" changeset="83778567" uid="6043234" user="MikeMikeR">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Vodafone;Tim"/>
+    <tag k="ref" v="554"/>
+    <tag k="start_date" v="2011-04-15"/>
+    <tag k="tower:construction" v="traliccio"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6572210271" lat="45.9276900" lon="12.7487600" version="2" timestamp="2020-04-19T16:27:25Z" changeset="83778567" uid="6043234" user="MikeMikeR">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre;Iliad"/>
+    <tag k="ref" v="564"/>
+    <tag k="start_date" v="2018-03-01"/>
+    <tag k="tower:construction" v="traliccio"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6572210272" lat="45.9473800" lon="12.7532200" version="1" timestamp="2019-06-26T10:08:13Z" changeset="71630263" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="565"/>
+    <tag k="start_date" v="2019-04-16"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6572210273" lat="45.9575800" lon="12.7746700" version="1" timestamp="2019-06-26T10:08:13Z" changeset="71630263" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="610"/>
+    <tag k="start_date" v="2019-04-02"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6572229361" lat="45.9865400" lon="12.7218300" version="1" timestamp="2019-06-26T10:23:29Z" changeset="71630846" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="533"/>
+    <tag k="start_date" v="2014-10-06"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6572362340" lat="45.9520300" lon="12.6129300" version="1" timestamp="2019-06-26T11:35:00Z" changeset="71633415" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="257"/>
+    <tag k="start_date" v="2019-04-24"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6572362341" lat="45.9671300" lon="12.6180600" version="1" timestamp="2019-06-26T11:35:00Z" changeset="71633415" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="265"/>
+    <tag k="start_date" v="2014-06-03"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6572362342" lat="45.9697900" lon="12.6297100" version="1" timestamp="2019-06-26T11:35:00Z" changeset="71633415" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="304"/>
+    <tag k="start_date" v="2019-05-22"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6572362343" lat="45.9671600" lon="12.6442500" version="1" timestamp="2019-06-26T11:35:00Z" changeset="71633415" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="340"/>
+    <tag k="start_date" v="2012-12-24"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6573952521" lat="46.1517877" lon="12.6603645" version="1" timestamp="2019-06-27T06:57:05Z" changeset="71660802" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="422"/>
+    <tag k="start_date" v="2012-11-15"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6573952522" lat="46.0408500" lon="12.6606400" version="1" timestamp="2019-06-27T06:57:05Z" changeset="71660802" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="393"/>
+    <tag k="start_date" v="2017-03-30"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6573952523" lat="46.1103400" lon="12.5248500" version="1" timestamp="2019-06-27T06:57:05Z" changeset="71660802" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="118"/>
+    <tag k="start_date" v="2011-03-18"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6573952524" lat="46.1722200" lon="12.7073800" version="1" timestamp="2019-06-27T06:57:05Z" changeset="71660802" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="492"/>
+    <tag k="start_date" v="2015-12-24"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6573952525" lat="46.1905100" lon="12.7744200" version="1" timestamp="2019-06-27T06:57:05Z" changeset="71660802" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="614"/>
+    <tag k="start_date" v="2019-05-03"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6573952526" lat="46.1680600" lon="12.9097400" version="1" timestamp="2019-06-27T06:57:05Z" changeset="71660802" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="822"/>
+    <tag k="start_date" v="2017-06-01"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6573952527" lat="46.1565800" lon="12.8368500" version="1" timestamp="2019-06-27T06:57:05Z" changeset="71660802" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="678"/>
+    <tag k="start_date" v="2019-05-03"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6573952528" lat="46.0412000" lon="12.5942100" version="1" timestamp="2019-06-27T06:57:05Z" changeset="71660802" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="231"/>
+    <tag k="start_date" v="2017-03-16"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6573952529" lat="46.0467200" lon="12.5400800" version="2" timestamp="2021-01-29T16:54:40Z" changeset="98378109" uid="45347" user="eriosw">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="121"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6573952530" lat="46.0226200" lon="12.5228800" version="1" timestamp="2019-06-27T06:57:05Z" changeset="71660802" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="87"/>
+    <tag k="start_date" v="2014-04-10"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6573952531" lat="45.9595000" lon="12.5043800" version="1" timestamp="2019-06-27T06:57:05Z" changeset="71660802" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="67"/>
+    <tag k="start_date" v="2019-04-17"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6573961971" lat="45.9592400" lon="12.5169600" version="1" timestamp="2019-06-27T06:51:26Z" changeset="71660667" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="72"/>
+    <tag k="start_date" v="2019-04-16"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6573961972" lat="45.9365100" lon="12.5454000" version="1" timestamp="2019-06-27T06:51:26Z" changeset="71660667" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="123"/>
+    <tag k="start_date" v="2013-01-15"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6573961973" lat="45.9659600" lon="12.5659700" version="1" timestamp="2019-06-27T06:51:26Z" changeset="71660667" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="156"/>
+    <tag k="start_date" v="2016-01-20"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6573961974" lat="45.9570600" lon="12.6295300" version="1" timestamp="2019-06-27T06:51:26Z" changeset="71660667" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="297"/>
+    <tag k="start_date" v="2019-05-17"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="7170349793" lat="45.8533246" lon="12.8106008" version="4" timestamp="2020-02-01T11:00:20Z" changeset="80405987" uid="10716882" user="FredrickIlBiondo">
+    <tag k="communication:antenna" v="yes"/>
+    <tag k="communication:gsm" v="yes"/>
+    <tag k="communication:mobile" v="yes"/>
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="7419700209" lat="45.9161360" lon="12.7586473" version="1" timestamp="2020-04-19T16:27:25Z" changeset="83778567" uid="6043234" user="MikeMikeR">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:construction" v="traliccio"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="7419700232" lat="45.9299609" lon="12.7335182" version="1" timestamp="2020-04-19T16:27:25Z" changeset="83778567" uid="6043234" user="MikeMikeR">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:construction" v="traliccio"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+
+</osm>
