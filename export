@@ -1,5 +1,5 @@
     {
-      "id"  : {{(cells["id"].value)}},
+      "id"  : {{(cells["Id"].value)}},
       "lat" : {{(cells["Y"].value)}},
       "lon" : {{(cells["X"].value)}},
       "tags" : {

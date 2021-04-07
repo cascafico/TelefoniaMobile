@@ -1,0 +1,2870 @@
+[
+    {
+      "id"  : 14,
+      "lat" : 45.881536,
+      "lon" : 13.437155,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2019-02-12",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 15,
+      "lat" : 45.794534,
+      "lon" : 13.468832,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2015-05-14",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 16,
+      "lat" : 45.828396,
+      "lon" : 13.501431,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2019-02-12",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 28,
+      "lat" : 45.681345,
+      "lon" : 13.405803,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2017-05-30",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 31,
+      "lat" : 45.816696,
+      "lon" : 13.450747,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2018-03-01",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 34,
+      "lat" : 45.807068,
+      "lon" : 13.521733,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2018-05-08",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 35,
+      "lat" : 45.947203,
+      "lon" : 13.463384,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2018-03-23",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 36,
+      "lat" : 45.80626,
+      "lon" : 13.544422,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2018-03-16",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 37,
+      "lat" : 45.813503,
+      "lon" : 13.520353,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2018-04-17",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 41,
+      "lat" : 45.855036,
+      "lon" : 13.434038,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2018-02-23",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 42,
+      "lat" : 45.844945,
+      "lon" : 13.53733,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2019-09-23",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 45,
+      "lat" : 45.794534,
+      "lon" : 13.468832,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2019-10-17",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 46,
+      "lat" : 45.917065,
+      "lon" : 13.603442,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2019-02-12",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 51,
+      "lat" : 45.875945,
+      "lon" : 13.49266,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2019-04-16",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 159,
+      "lat" : 45.797951,
+      "lon" : 13.564929,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2019-07-31",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 160,
+      "lat" : 45.916432,
+      "lon" : 13.456793,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2019-04-08",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 161,
+      "lat" : 45.937158,
+      "lon" : 13.595588,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2019-06-14",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 187,
+      "lat" : 45.820365,
+      "lon" : 13.509018,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2019-02-12",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 193,
+      "lat" : 45.806894,
+      "lon" : 13.517187,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2019-05-24",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 224,
+      "lat" : 45.67951,
+      "lon" : 13.387277,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2019-02-19",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 269,
+      "lat" : 45.681653,
+      "lon" : 13.390933,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2019-06-03",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 398,
+      "lat" : 45.896529,
+      "lon" : 13.495088,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2020-02-04",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 420,
+      "lat" : 45.719337,
+      "lon" : 13.458256,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2014-02-06",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 431,
+      "lat" : 45.953792,
+      "lon" : 13.615843,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2019-09-27",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 556,
+      "lat" : 45.679562,
+      "lon" : 13.400604,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2020-02-12",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 569,
+      "lat" : 45.679335,
+      "lon" : 13.401388,
+      "tags" : {
+               "operator" : "Iliad Italia",
+               "start_date" : "2019-06-14",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 614,
+      "lat" : 45.681207,
+      "lon" : 13.383103,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2019-12-30",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 637,
+      "lat" : 45.681162,
+      "lon" : 13.426394,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2009-11-11",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 678,
+      "lat" : 45.82148,
+      "lon" : 13.485094,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2019-10-31",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 679,
+      "lat" : 45.883737,
+      "lon" : 13.472494,
+      "tags" : {
+               "operator" : "Iliad Italia",
+               "start_date" : "2020-01-17",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 681,
+      "lat" : 45.80626,
+      "lon" : 13.544422,
+      "tags" : {
+               "operator" : "Iliad Italia",
+               "start_date" : "2019-07-23",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 723,
+      "lat" : 45.85722,
+      "lon" : 13.427747,
+      "tags" : {
+               "operator" : "Iliad Italia",
+               "start_date" : "2020-03-10",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 725,
+      "lat" : 45.904006,
+      "lon" : 13.509455,
+      "tags" : {
+               "operator" : "Iliad Italia",
+               "start_date" : "2020-06-15",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 730,
+      "lat" : 45.929579,
+      "lon" : 13.541776,
+      "tags" : {
+               "operator" : "Iliad Italia",
+               "start_date" : "2020-03-06",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 734,
+      "lat" : 45.897021,
+      "lon" : 13.492136,
+      "tags" : {
+               "operator" : "Iliad Italia",
+               "start_date" : "2020-01-23",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 736,
+      "lat" : 45.93251,
+      "lon" : 13.567885,
+      "tags" : {
+               "operator" : "Iliad Italia",
+               "start_date" : "2020-03-23",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 741,
+      "lat" : 45.792856,
+      "lon" : 13.534329,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2020-06-19",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 853,
+      "lat" : 45.67951,
+      "lon" : 13.387277,
+      "tags" : {
+               "operator" : "Iliad Italia",
+               "start_date" : "2019-12-23",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 888,
+      "lat" : 45.953792,
+      "lon" : 13.615843,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2014-03-28",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 891,
+      "lat" : 45.955853,
+      "lon" : 13.629893,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2014-04-02",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 900,
+      "lat" : 45.807901,
+      "lon" : 13.535074,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2015-06-21",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 904,
+      "lat" : 45.93251,
+      "lon" : 13.567885,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2019-01-24",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 913,
+      "lat" : 45.913541,
+      "lon" : 13.596282,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2014-03-26",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 915,
+      "lat" : 45.930344,
+      "lon" : 13.603794,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2016-09-14",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 920,
+      "lat" : 45.682139,
+      "lon" : 13.412966,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2018-03-01",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 923,
+      "lat" : 45.844945,
+      "lon" : 13.53733,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2016-11-08",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 930,
+      "lat" : 45.678374,
+      "lon" : 13.398766,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2015-09-25",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 936,
+      "lat" : 45.802685,
+      "lon" : 13.544947,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2018-02-28",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 940,
+      "lat" : 45.93183,
+      "lon" : 13.621638,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2014-03-10",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 948,
+      "lat" : 45.846785,
+      "lon" : 13.533405,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2018-02-07",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 958,
+      "lat" : 45.813031,
+      "lon" : 13.508266,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2019-01-11",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 961,
+      "lat" : 45.881536,
+      "lon" : 13.437155,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2014-09-17",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 965,
+      "lat" : 45.95404,
+      "lon" : 13.543664,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2018-05-02",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 989,
+      "lat" : 45.924481,
+      "lon" : 13.611645,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2014-03-28",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1011,
+      "lat" : 45.831308,
+      "lon" : 13.509409,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2015-10-23",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1012,
+      "lat" : 45.901897,
+      "lon" : 13.414744,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2018-01-30",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1019,
+      "lat" : 45.810651,
+      "lon" : 13.505592,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2014-06-09",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1023,
+      "lat" : 45.93183,
+      "lon" : 13.621638,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2019-07-19",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1040,
+      "lat" : 45.955853,
+      "lon" : 13.629893,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2015-06-30",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1054,
+      "lat" : 45.719337,
+      "lon" : 13.458256,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2018-02-12",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1055,
+      "lat" : 45.886428,
+      "lon" : 13.495606,
+      "tags" : {
+               "start_date" : "2016-07-13",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1060,
+      "lat" : 45.806883,
+      "lon" : 13.517182,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2014-05-29",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1063,
+      "lat" : 45.696747,
+      "lon" : 13.4548,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2017-12-07",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1076,
+      "lat" : 45.935377,
+      "lon" : 13.511788,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2014-06-13",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1086,
+      "lat" : 45.935377,
+      "lon" : 13.511788,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2018-05-08",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1103,
+      "lat" : 45.857545,
+      "lon" : 13.56316,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2018-03-28",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1124,
+      "lat" : 45.960999,
+      "lon" : 13.470796,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2019-02-12",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1136,
+      "lat" : 45.933744,
+      "lon" : 13.629423,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2014-07-11",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1137,
+      "lat" : 45.698167,
+      "lon" : 13.457631,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2018-01-30",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1157,
+      "lat" : 45.95011,
+      "lon" : 13.616236,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2018-02-27",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1161,
+      "lat" : 45.806853,
+      "lon" : 13.464963,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2007-06-07",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1162,
+      "lat" : 45.929761,
+      "lon" : 13.544029,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2014-09-18",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1180,
+      "lat" : 45.791341,
+      "lon" : 13.568968,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2015-06-30",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1185,
+      "lat" : 45.94324,
+      "lon" : 13.633483,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2014-06-24",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1192,
+      "lat" : 45.929579,
+      "lon" : 13.541776,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2018-05-16",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1196,
+      "lat" : 45.959507,
+      "lon" : 13.607309,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2014-09-03",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1217,
+      "lat" : 45.91686,
+      "lon" : 13.467923,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2014-08-21",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1253,
+      "lat" : 45.887394,
+      "lon" : 13.496547,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2014-05-22",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1264,
+      "lat" : 45.861015,
+      "lon" : 13.475564,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2015-12-09",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1270,
+      "lat" : 45.929761,
+      "lon" : 13.544029,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2019-08-26",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1279,
+      "lat" : 45.955328,
+      "lon" : 13.468051,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2014-10-20",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1281,
+      "lat" : 45.897156,
+      "lon" : 13.416826,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2014-09-17",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1284,
+      "lat" : 45.863467,
+      "lon" : 13.435817,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2015-07-06",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1298,
+      "lat" : 45.863467,
+      "lon" : 13.435817,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2019-08-29",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1309,
+      "lat" : 45.946418,
+      "lon" : 13.601988,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2004-08-02",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1328,
+      "lat" : 45.912837,
+      "lon" : 13.58679,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1334,
+      "lat" : 45.964566,
+      "lon" : 13.46626,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2007-01-25",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1358,
+      "lat" : 45.807901,
+      "lon" : 13.535074,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2018-02-28",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1362,
+      "lat" : 45.815275,
+      "lon" : 13.452026,
+      "tags" : {
+               "start_date" : "2016-05-27",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1376,
+      "lat" : 45.810259,
+      "lon" : 13.57643,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2014-06-09",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1381,
+      "lat" : 45.935889,
+      "lon" : 13.551766,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2018-02-27",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1409,
+      "lat" : 45.887394,
+      "lon" : 13.496547,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2013-08-09",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1422,
+      "lat" : 45.924481,
+      "lon" : 13.611645,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2015-06-30",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1427,
+      "lat" : 45.947207,
+      "lon" : 13.609207,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2018-05-22",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1460,
+      "lat" : 45.945914,
+      "lon" : 13.607416,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2014-07-01",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1462,
+      "lat" : 45.917065,
+      "lon" : 13.603443,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2014-10-23",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1474,
+      "lat" : 45.930344,
+      "lon" : 13.603794,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2014-04-09",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1476,
+      "lat" : 45.854462,
+      "lon" : 13.485455,
+      "tags" : {
+               "start_date" : "2003-12-12",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1497,
+      "lat" : 45.67951,
+      "lon" : 13.387277,
+      "tags" : {
+               "start_date" : "2006-10-25",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1500,
+      "lat" : 45.907665,
+      "lon" : 13.509237,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2018-02-19",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1504,
+      "lat" : 45.678027,
+      "lon" : 13.430891,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2018-01-30",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1522,
+      "lat" : 45.895959,
+      "lon" : 13.445063,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2014-09-17",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1524,
+      "lat" : 45.961275,
+      "lon" : 13.634208,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2018-05-02",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1525,
+      "lat" : 45.928879,
+      "lon" : 13.618382,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2018-02-12",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1533,
+      "lat" : 45.678315,
+      "lon" : 13.398749,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2017-05-12",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1535,
+      "lat" : 45.917226,
+      "lon" : 13.419077,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2015-12-02",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1538,
+      "lat" : 45.817331,
+      "lon" : 13.510073,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2019-02-19",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1573,
+      "lat" : 45.953311,
+      "lon" : 13.634274,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2019-01-08",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1583,
+      "lat" : 45.942374,
+      "lon" : 13.625508,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2018-05-08",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1584,
+      "lat" : 45.883737,
+      "lon" : 13.472494,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2018-01-26",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1593,
+      "lat" : 45.853951,
+      "lon" : 13.473632,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2017-05-03",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1598,
+      "lat" : 45.902232,
+      "lon" : 13.489404,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2018-02-12",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1627,
+      "lat" : 45.679767,
+      "lon" : 13.404684,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2013-10-15",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1638,
+      "lat" : 45.863467,
+      "lon" : 13.435817,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2019-04-09",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1645,
+      "lat" : 45.847281,
+      "lon" : 13.464528,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2014-09-17",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1653,
+      "lat" : 45.817714,
+      "lon" : 13.522141,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2014-06-06",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1655,
+      "lat" : 45.897156,
+      "lon" : 13.416826,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2014-09-17",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1659,
+      "lat" : 45.895959,
+      "lon" : 13.445063,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2019-02-19",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1666,
+      "lat" : 45.937448,
+      "lon" : 13.612848,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2018-03-21",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1674,
+      "lat" : 46.010412,
+      "lon" : 13.473002,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2018-03-28",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1682,
+      "lat" : 45.801436,
+      "lon" : 13.503512,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2018-04-04",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1693,
+      "lat" : 45.794749,
+      "lon" : 13.524735,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2015-06-23",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1711,
+      "lat" : 45.947808,
+      "lon" : 13.631228,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2017-12-22",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1720,
+      "lat" : 45.675994,
+      "lon" : 13.388982,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2017-12-22",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1733,
+      "lat" : 45.913336,
+      "lon" : 13.59227,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2018-01-30",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1734,
+      "lat" : 45.849717,
+      "lon" : 13.540493,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2002-10-04",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1736,
+      "lat" : 45.948196,
+      "lon" : 13.624226,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2018-04-06",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1738,
+      "lat" : 45.817714,
+      "lon" : 13.522141,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2014-06-06",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1739,
+      "lat" : 45.791341,
+      "lon" : 13.568968,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2018-07-27",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1752,
+      "lat" : 45.847281,
+      "lon" : 13.464528,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2014-09-17",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1753,
+      "lat" : 46.010357,
+      "lon" : 13.472783,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2009-07-21",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1759,
+      "lat" : 45.951407,
+      "lon" : 13.62622,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2015-07-14",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1777,
+      "lat" : 45.806883,
+      "lon" : 13.517182,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2014-05-29",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1780,
+      "lat" : 45.801801,
+      "lon" : 13.543174,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2016-11-08",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1781,
+      "lat" : 45.897021,
+      "lon" : 13.492136,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2019-03-04",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1787,
+      "lat" : 45.895959,
+      "lon" : 13.445063,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2014-09-17",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1795,
+      "lat" : 45.820641,
+      "lon" : 13.577846,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2018-02-16",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1812,
+      "lat" : 45.923288,
+      "lon" : 13.615376,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2004-12-21",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1832,
+      "lat" : 45.887584,
+      "lon" : 13.456936,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2002-10-04",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1834,
+      "lat" : 45.677267,
+      "lon" : 13.382469,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2017-05-16",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1846,
+      "lat" : 45.813088,
+      "lon" : 13.559015,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1847,
+      "lat" : 45.808041,
+      "lon" : 13.532968,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2016-06-03",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1856,
+      "lat" : 45.921319,
+      "lon" : 13.614544,
+      "tags" : {
+               "start_date" : "2006-10-06",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1859,
+      "lat" : 45.861015,
+      "lon" : 13.475564,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2015-03-11",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1864,
+      "lat" : 45.91686,
+      "lon" : 13.467923,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2019-09-02",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1865,
+      "lat" : 45.933744,
+      "lon" : 13.629423,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2014-07-17",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1870,
+      "lat" : 45.951407,
+      "lon" : 13.62622,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2014-05-21",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1877,
+      "lat" : 45.889807,
+      "lon" : 13.519071,
+      "tags" : {
+               "start_date" : "2003-11-27",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1885,
+      "lat" : 45.935941,
+      "lon" : 13.613674,
+      "tags" : {
+               "start_date" : "2006-10-13",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1895,
+      "lat" : 45.677267,
+      "lon" : 13.382469,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2014-10-16",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1897,
+      "lat" : 45.917226,
+      "lon" : 13.419077,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2018-03-28",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1898,
+      "lat" : 45.959507,
+      "lon" : 13.607309,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2014-09-03",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1901,
+      "lat" : 45.7942,
+      "lon" : 13.465867,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2018-12-14",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1922,
+      "lat" : 45.935377,
+      "lon" : 13.511788,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2015-06-19",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1926,
+      "lat" : 45.937158,
+      "lon" : 13.595589,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2014-03-10",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1927,
+      "lat" : 45.941975,
+      "lon" : 13.59206,
+      "tags" : {
+               "start_date" : "2006-10-06",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1930,
+      "lat" : 45.680447,
+      "lon" : 13.384849,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2017-04-27",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1940,
+      "lat" : 45.904007,
+      "lon" : 13.509455,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2019-04-02",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1942,
+      "lat" : 45.933919,
+      "lon" : 13.570471,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2014-04-29",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1952,
+      "lat" : 45.95404,
+      "lon" : 13.543664,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2014-08-21",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1954,
+      "lat" : 45.881536,
+      "lon" : 13.437155,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2018-10-02",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1970,
+      "lat" : 45.813411,
+      "lon" : 13.558756,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2018-02-16",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1979,
+      "lat" : 45.791138,
+      "lon" : 13.523694,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2018-12-18",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 1982,
+      "lat" : 45.774906,
+      "lon" : 13.527752,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2003-12-05",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 2001,
+      "lat" : 45.815849,
+      "lon" : 13.44875,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2015-03-04",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 2009,
+      "lat" : 45.904007,
+      "lon" : 13.509455,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2014-06-09",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 2023,
+      "lat" : 45.955328,
+      "lon" : 13.468051,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2015-06-22",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 2027,
+      "lat" : 45.941025,
+      "lon" : 13.517884,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2018-02-23",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 2029,
+      "lat" : 45.800471,
+      "lon" : 13.533341,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2018-11-05",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 2031,
+      "lat" : 45.79956,
+      "lon" : 13.561369,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2004-09-10",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 2034,
+      "lat" : 45.682138,
+      "lon" : 13.412999,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2014-09-05",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 2047,
+      "lat" : 45.782579,
+      "lon" : 13.540242,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2008-02-28",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 2055,
+      "lat" : 45.95896,
+      "lon" : 13.45884,
+      "tags" : {
+               "start_date" : "2003-09-09",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 2059,
+      "lat" : 45.883737,
+      "lon" : 13.472494,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2015-02-02",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 2062,
+      "lat" : 45.831309,
+      "lon" : 13.509413,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2015-12-10",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 2067,
+      "lat" : 45.930344,
+      "lon" : 13.603794,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2012-09-17",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 2072,
+      "lat" : 45.675757,
+      "lon" : 13.386679,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 2073,
+      "lat" : 45.912837,
+      "lon" : 13.58679,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2004-09-07",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 2091,
+      "lat" : 45.930061,
+      "lon" : 13.609336,
+      "tags" : {
+               "start_date" : "2014-07-22",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 2094,
+      "lat" : 45.941527,
+      "lon" : 13.634344,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2018-02-15",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 2096,
+      "lat" : 45.81142,
+      "lon" : 13.535377,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2018-01-30",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 2101,
+      "lat" : 45.945423,
+      "lon" : 13.61592,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2014-05-30",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 2109,
+      "lat" : 45.940284,
+      "lon" : 13.616679,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2013-07-11",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 2120,
+      "lat" : 45.794749,
+      "lon" : 13.524735,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2014-08-21",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 2125,
+      "lat" : 45.934879,
+      "lon" : 13.626749,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2018-04-18",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 2132,
+      "lat" : 45.682138,
+      "lon" : 13.412999,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2014-09-05",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 2135,
+      "lat" : 45.775327,
+      "lon" : 13.527169,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2018-03-27",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 2138,
+      "lat" : 45.943925,
+      "lon" : 13.621812,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2014-12-10",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 2145,
+      "lat" : 45.94324,
+      "lon" : 13.633483,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2014-09-19",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 2151,
+      "lat" : 45.796716,
+      "lon" : 13.494469,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2018-03-28",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 2153,
+      "lat" : 45.945914,
+      "lon" : 13.607416,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 2154,
+      "lat" : 45.810259,
+      "lon" : 13.57643,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2015-06-30",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 2157,
+      "lat" : 45.86448,
+      "lon" : 13.44348,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2019-04-09",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 2159,
+      "lat" : 45.806863,
+      "lon" : 13.545993,
+      "tags" : {
+               "start_date" : "2003-12-11",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 2170,
+      "lat" : 45.940288,
+      "lon" : 13.616679,
+      "tags" : {
+               "operator" : "Vodafone Omnitel",
+               "start_date" : "2015-12-09",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 2177,
+      "lat" : 45.801801,
+      "lon" : 13.543174,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2014-05-29",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 2203,
+      "lat" : 45.886428,
+      "lon" : 13.495606,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2018-03-07",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 2217,
+      "lat" : 45.815849,
+      "lon" : 13.44875,
+      "tags" : {
+               "operator" : "Telecom Italia Mobile",
+               "start_date" : "2013-10-07",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 2278,
+      "lat" : 45.942064,
+      "lon" : 13.624791,
+      "tags" : {
+               "operator" : "Iliad Italia",
+               "start_date" : "2019-10-14",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 2321,
+      "lat" : 45.933025,
+      "lon" : 13.601423,
+      "tags" : {
+               "operator" : "Wind-Tre",
+               "start_date" : "2020-09-29",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 2348,
+      "lat" : 45.828396,
+      "lon" : 13.501431,
+      "tags" : {
+               "operator" : "Iliad Italia",
+               "start_date" : "2020-05-07",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 2349,
+      "lat" : 45.934879,
+      "lon" : 13.626749,
+      "tags" : {
+               "operator" : "Iliad Italia",
+               "start_date" : "2019-06-12",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 2352,
+      "lat" : 45.935889,
+      "lon" : 13.551766,
+      "tags" : {
+               "operator" : "Iliad Italia",
+               "start_date" : "2020-07-13",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 2354,
+      "lat" : 45.813411,
+      "lon" : 13.558756,
+      "tags" : {
+               "operator" : "Iliad Italia",
+               "start_date" : "2020-09-11",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 2434,
+      "lat" : 45.941025,
+      "lon" : 13.517884,
+      "tags" : {
+               "operator" : "Iliad Italia",
+               "start_date" : "2020-03-24",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+,
+    {
+      "id"  : 2443,
+      "lat" : 45.81253,
+      "lon" : 13.525151,
+      "tags" : {
+               "operator" : "Iliad Italia",
+               "start_date" : "2019-10-31",
+               "man_made"  : "mast",
+               "tower:type" : "communication",
+               "communication:mobile_phone" : "yes"
+               }
+    }
+
+]
