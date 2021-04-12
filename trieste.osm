@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2021-04-12T07:54:27Z" areas="2021-04-12T06:44:42Z"/>
+
+  <node id="2508270174" lat="45.6386884" lon="13.8653205" version="6" timestamp="2018-07-10T21:35:21Z" changeset="60590150" uid="97922" user="damjang">
+    <tag k="Sito" v="#4661"/>
+    <tag k="Sito_1" v="#7430"/>
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="mast"/>
+    <tag k="operator" v="Vodafone;Wind"/>
+    <tag k="tower:construction" v="freestanding"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3816226167" lat="45.7136056" lon="13.7426932" version="1" timestamp="2015-11-03T20:55:12Z" changeset="35066138" uid="97922" user="damjang">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="mast"/>
+    <tag k="operator" v="Wind Telecomunicazioni S.p.A."/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3830495057" lat="45.7652170" lon="13.6958431" version="4" timestamp="2020-08-14T11:42:57Z" changeset="89408411" uid="97922" user="damjang">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="height" v="34"/>
+    <tag k="man_made" v="mast"/>
+    <tag k="name" v="Wind"/>
+    <tag k="operator" v="Wind Telecomunicazioni S.p.A."/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3966109664" lat="45.7534068" lon="13.6877647" version="1" timestamp="2016-01-25T14:04:53Z" changeset="36797124" uid="97922" user="damjang">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="height" v="34"/>
+    <tag k="man_made" v="mast"/>
+    <tag k="operator" v="Wind Telecomunicazioni S.p.A."/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4714678423" lat="45.6727250" lon="13.7988600" version="3" timestamp="2020-09-05T07:52:50Z" changeset="90443628" uid="2274398" user="Erik Geletti">
+    <tag k="communication:microwave" v="yes"/>
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Iliad Italia"/>
+    <tag k="ref" v="3046"/>
+    <tag k="survey:date" v="2016-01-11"/>
+    <tag k="tower:construction" v="lattice"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4906826322" lat="45.6088782" lon="13.8533474" version="1" timestamp="2017-06-09T23:41:40Z" changeset="49410232" uid="97922" user="damjang">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="height" v="34"/>
+    <tag k="man_made" v="mast"/>
+    <tag k="name" v="WIND"/>
+    <tag k="operator" v="Wind Telecomunicazioni S.p.A."/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4906826323" lat="45.6103778" lon="13.8552135" version="1" timestamp="2017-06-09T23:41:40Z" changeset="49410232" uid="97922" user="damjang">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6247341691" lat="45.6881592" lon="13.7857268" version="1" timestamp="2019-01-30T16:18:40Z" changeset="66775810" uid="2274398" user="Erik Geletti">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="mast"/>
+    <tag k="operator" v="Vodafone"/>
+    <tag k="tower:construction" v="freestanding"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6557013312" lat="45.7472500" lon="13.6654700" version="1" timestamp="2019-06-19T08:29:12Z" changeset="71392513" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Iliad Italia"/>
+    <tag k="ref" v="2830"/>
+    <tag k="start_date" v="2018-06-26"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6557024012" lat="45.6008400" lon="13.7386700" version="1" timestamp="2019-06-19T08:35:56Z" changeset="71392735" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Iliad Italia"/>
+    <tag k="ref" v="2867"/>
+    <tag k="start_date" v="2019-05-07"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6557041646" lat="45.6851200" lon="13.7772400" version="1" timestamp="2019-06-19T08:30:15Z" changeset="71392553" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Iliad Italia"/>
+    <tag k="ref" v="2949"/>
+    <tag k="start_date" v="2018-08-28"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6557044926" lat="45.6491100" lon="13.7667100" version="1" timestamp="2019-06-19T08:35:04Z" changeset="71392704" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Iliad Italia"/>
+    <tag k="start_date" v="2018-07-10"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6557045009" lat="45.6418000" lon="13.7710500" version="1" timestamp="2019-06-19T08:33:48Z" changeset="71392664" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Iliad Italia"/>
+    <tag k="ref" v="2919"/>
+    <tag k="start_date" v="2018-07-03"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6557045010" lat="45.6317700" lon="13.7829200" version="1" timestamp="2019-06-19T08:33:48Z" changeset="71392664" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Iliad Italia"/>
+    <tag k="ref" v="2969"/>
+    <tag k="start_date" v="2018-12-11"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6557045011" lat="45.6380700" lon="13.7870600" version="1" timestamp="2019-06-19T08:33:48Z" changeset="71392664" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Iliad Italia"/>
+    <tag k="ref" v="3000"/>
+    <tag k="start_date" v="2018-07-27"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6557045657" lat="45.6599500" lon="13.8295600" version="1" timestamp="2019-06-19T08:32:11Z" changeset="71392613" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Iliad Italia"/>
+    <tag k="ref" v="3137"/>
+    <tag k="start_date" v="2019-05-31"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6574245630" lat="45.6407200" lon="13.7616200" version="1" timestamp="2019-06-27T09:34:45Z" changeset="71665618" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="mast"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="2882"/>
+    <tag k="start_date" v="2017-07-27"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6574245631" lat="45.6410200" lon="13.7607400" version="1" timestamp="2019-06-27T09:34:45Z" changeset="71665618" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="mast"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="2881"/>
+    <tag k="start_date" v="2017-07-27"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6574265660" lat="45.5996000" lon="13.7674400" version="1" timestamp="2019-06-27T09:33:35Z" changeset="71665592" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="mast"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="2902"/>
+    <tag k="start_date" v="2019-03-19"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6574265661" lat="45.6178500" lon="13.8180700" version="1" timestamp="2019-06-27T09:33:35Z" changeset="71665592" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="mast"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="3099"/>
+    <tag k="start_date" v="2019-03-05"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6574265662" lat="45.6636000" lon="13.7841500" version="1" timestamp="2019-06-27T09:33:35Z" changeset="71665592" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="2981"/>
+    <tag k="start_date" v="2017-08-22"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6574265663" lat="45.7737900" lon="13.6363400" version="1" timestamp="2019-06-27T09:33:35Z" changeset="71665592" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="2825"/>
+    <tag k="start_date" v="2019-03-06"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6991009207" lat="45.7802464" lon="13.5981410" version="1" timestamp="2019-11-19T22:02:31Z" changeset="77293357" uid="1553347" user="MitjaJez">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+
+</osm>
