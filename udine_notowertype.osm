@@ -1,0 +1,1489 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2021-04-12T12:21:57Z" areas="2021-04-12T11:23:13Z"/>
+
+  <node id="422215086" lat="46.1051437" lon="13.4868335" version="3" timestamp="2017-02-22T12:48:52Z" changeset="46306110" uid="361003" user="Cascafico">
+    <tag k="height" v="15"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="915658625" lat="46.3013317" lon="13.1319521" version="4" timestamp="2015-06-11T09:23:44Z" changeset="31891805" uid="1345232" user="paolozamp">
+    <tag k="height" v="50 m"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="RAI"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="1343284735" lat="45.9761242" lon="13.2425463" version="2" timestamp="2014-01-27T10:50:22Z" changeset="20226602" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="mast"/>
+    <tag k="operator" v="H3G"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="1583293720" lat="46.5544059" lon="13.2826433" version="1" timestamp="2012-01-08T21:24:31Z" changeset="10336928" uid="516712" user="mux0815">
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="1617880720" lat="45.7819298" lon="13.2341192" version="1" timestamp="2012-02-04T16:37:53Z" changeset="10586041" uid="196617" user="demetrio_m">
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="1617880740" lat="45.9891383" lon="13.3620736" version="1" timestamp="2012-02-04T16:37:55Z" changeset="10586041" uid="196617" user="demetrio_m">
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="1641728337" lat="46.5229519" lon="13.7138046" version="3" timestamp="2016-07-07T00:44:07Z" changeset="40532290" uid="4217697" user="andimik">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="1740243807" lat="46.0386923" lon="13.2548651" version="2" timestamp="2015-05-20T08:53:30Z" changeset="31308104" uid="1345232" user="paolozamp">
+    <tag k="height" v="148"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="name" v="Rai TV"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="2026304229" lat="46.0859524" lon="13.4334173" version="1" timestamp="2012-11-22T12:23:04Z" changeset="13984926" uid="361003" user="Cascafico">
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="2026304233" lat="46.0861941" lon="13.4332110" version="1" timestamp="2012-11-22T12:23:04Z" changeset="13984926" uid="361003" user="Cascafico">
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="2170919695" lat="46.4993192" lon="13.5023675" version="2" timestamp="2014-08-11T14:15:03Z" changeset="24679422" uid="51987" user="pronti">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="2185894837" lat="45.8373112" lon="13.4095087" version="1" timestamp="2013-03-04T19:30:34Z" changeset="15250431" uid="196617" user="demetrio_m">
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="2288886250" lat="46.0998333" lon="13.4411585" version="1" timestamp="2013-05-02T09:44:45Z" changeset="15944146" uid="361003" user="Cascafico">
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="2293358469" lat="46.1589879" lon="13.4015882" version="2" timestamp="2015-06-11T09:10:38Z" changeset="31891553" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="2293358508" lat="46.1593495" lon="13.4052239" version="2" timestamp="2015-06-11T09:10:38Z" changeset="31891553" uid="1345232" user="paolozamp">
+    <tag k="height" v="30 m"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="2323029215" lat="46.1253567" lon="13.3032061" version="1" timestamp="2013-05-28T11:59:15Z" changeset="16322812" uid="361003" user="Cascafico">
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="2332759148" lat="45.9784344" lon="13.4235614" version="2" timestamp="2014-10-17T13:55:42Z" changeset="26145155" uid="1730440" user="LB_Manzano">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="2404884894" lat="45.7866900" lon="13.0081705" version="1" timestamp="2013-08-02T10:08:19Z" changeset="17190015" uid="361003" user="Cascafico">
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="2422473192" lat="46.5303137" lon="13.1176857" version="1" timestamp="2013-08-18T07:12:39Z" changeset="17391905" uid="188429" user="gpstracks">
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="2430751142" lat="46.4108033" lon="13.0308927" version="1" timestamp="2013-08-25T07:56:40Z" changeset="17494324" uid="188429" user="gpstracks">
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Ray Way"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="2430751207" lat="46.4114627" lon="13.0313580" version="1" timestamp="2013-08-25T07:56:44Z" changeset="17494324" uid="188429" user="gpstracks">
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Protezione Civile"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="2430751279" lat="46.4116575" lon="13.0315014" version="1" timestamp="2013-08-25T07:56:45Z" changeset="17494324" uid="188429" user="gpstracks">
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="2430751316" lat="46.4117866" lon="13.0316961" version="1" timestamp="2013-08-25T07:56:46Z" changeset="17494324" uid="188429" user="gpstracks">
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="ENEL"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="2460568833" lat="46.1198934" lon="13.2264270" version="1" timestamp="2013-09-16T16:13:42Z" changeset="17870902" uid="650416" user="Bredy">
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="2460569432" lat="46.1886562" lon="13.2571744" version="1" timestamp="2013-09-16T16:13:56Z" changeset="17870902" uid="650416" user="Bredy">
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="2461620950" lat="45.9015342" lon="13.2956744" version="1" timestamp="2013-09-17T13:41:28Z" changeset="17887080" uid="650416" user="Bredy">
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="2461841370" lat="45.9288622" lon="13.3957876" version="1" timestamp="2013-09-17T16:49:30Z" changeset="17890417" uid="650416" user="Bredy">
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="2469703347" lat="45.9591235" lon="13.4195304" version="1" timestamp="2013-09-24T06:59:18Z" changeset="18003701" uid="361003" user="Cascafico">
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="2472305216" lat="46.5111932" lon="13.3086006" version="2" timestamp="2017-03-02T12:32:25Z" changeset="46520968" uid="361003" user="Cascafico">
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="2577032412" lat="46.0457782" lon="13.4430933" version="3" timestamp="2014-12-05T11:14:25Z" changeset="27259748" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="height" v="30"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind"/>
+    <tag k="ref:cellid" v="311"/>
+    <tag k="ref:lac" v="25052"/>
+    <tag k="ref:mcc" v="222"/>
+    <tag k="ref:mnc" v="88"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="2580563089" lat="46.4206429" lon="13.2877763" version="1" timestamp="2013-12-15T10:44:27Z" changeset="19461733" uid="188429" user="gpstracks">
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Protezione Civile"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="2580563098" lat="46.4206512" lon="13.2876734" version="1" timestamp="2013-12-15T10:44:27Z" changeset="19461733" uid="188429" user="gpstracks">
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Protezione Civile"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="2580563115" lat="46.4206905" lon="13.2876696" version="1" timestamp="2013-12-15T10:44:27Z" changeset="19461733" uid="188429" user="gpstracks">
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="2582092573" lat="46.2768417" lon="13.2688577" version="2" timestamp="2014-02-19T11:16:28Z" changeset="20654062" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Telecom;Wind"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="2615927979" lat="46.0870840" lon="13.3786522" version="1" timestamp="2014-01-09T08:17:44Z" changeset="19895847" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Telecom;Omnitel;Wind"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="2639531110" lat="46.0134122" lon="13.2178746" version="1" timestamp="2014-01-27T11:06:22Z" changeset="20226812" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="mast"/>
+    <tag k="operator" v="Telecom;Omnitel"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="2639537609" lat="46.1117582" lon="13.2048804" version="2" timestamp="2015-12-11T12:36:38Z" changeset="35883731" uid="1345232" user="paolozamp">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="height" v="30m"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind;H3G"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="2639539224" lat="46.1089199" lon="13.2103887" version="3" timestamp="2018-03-12T22:06:35Z" changeset="57126099" uid="542047" user="dromedar61">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="water_tower"/>
+    <tag k="operator" v="Telecom;Omnitel"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="2642364793" lat="45.8165225" lon="13.1420794" version="1" timestamp="2014-01-29T18:10:12Z" changeset="20269798" uid="554973" user="dgitto">
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="2667751710" lat="46.0385802" lon="13.3103098" version="2" timestamp="2014-02-12T09:29:06Z" changeset="20518806" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="mast"/>
+    <tag k="operator" v="Omnitel"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="2667751711" lat="46.0562911" lon="13.3873713" version="4" timestamp="2014-12-05T11:22:52Z" changeset="27259934" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind"/>
+    <tag k="ref:lac" v="24062"/>
+    <tag k="ref:mcc" v="222"/>
+    <tag k="ref:mnc" v="88"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="2667751712" lat="46.0834780" lon="13.3028530" version="2" timestamp="2014-02-12T09:31:40Z" changeset="20518836" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="2667751713" lat="46.1396786" lon="13.3505117" version="1" timestamp="2014-02-11T22:05:52Z" changeset="20512170" uid="1227619" user="Marco_T">
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="2667751714" lat="46.1403419" lon="13.3503798" version="1" timestamp="2014-02-11T22:05:52Z" changeset="20512170" uid="1227619" user="Marco_T">
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="2667751717" lat="46.1505086" lon="13.3461184" version="2" timestamp="2015-06-11T16:09:59Z" changeset="31900706" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="2791452434" lat="46.0947952" lon="13.2312647" version="1" timestamp="2014-04-14T20:28:09Z" changeset="21695323" uid="421035" user="Mattia P">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="2966220857" lat="45.6713567" lon="13.0953241" version="2" timestamp="2014-07-16T15:59:39Z" changeset="24184570" uid="110834" user="andreagott">
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Telecom Italia SpA"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3055627506" lat="45.9842551" lon="13.3776583" version="2" timestamp="2014-09-04T13:32:21Z" changeset="25226661" uid="1730440" user="LB_Manzano">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3135194857" lat="45.9909918" lon="13.4397904" version="2" timestamp="2014-11-13T07:51:36Z" changeset="26750683" uid="66391" user="geozeisig">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3136627006" lat="46.0315360" lon="13.3935266" version="1" timestamp="2014-10-18T11:16:14Z" changeset="26168154" uid="1730440" user="LB_Manzano">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3298883650" lat="46.5058716" lon="12.9305359" version="1" timestamp="2015-01-19T18:00:18Z" changeset="28258844" uid="613605" user="Plutoz">
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3530002461" lat="46.0384970" lon="13.2546648" version="4" timestamp="2018-06-01T23:51:48Z" changeset="59474847" uid="6409137" user="Ryzen">
+    <tag k="height" v="50m"/>
+    <tag k="man_made" v="mast"/>
+    <tag k="name" v="Rai"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3530285353" lat="46.0814058" lon="13.2227683" version="2" timestamp="2015-05-21T14:59:30Z" changeset="31345346" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3538991564" lat="46.0830998" lon="13.1993428" version="1" timestamp="2015-05-23T15:49:54Z" changeset="31400767" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3576655870" lat="46.4823113" lon="13.5206083" version="4" timestamp="2015-09-24T10:50:03Z" changeset="34223239" uid="1345232" user="paolozamp">
+    <tag k="height" v="10m"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3576694898" lat="46.4822751" lon="13.5202293" version="3" timestamp="2015-07-10T09:34:52Z" changeset="32538445" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587440010" lat="46.0837248" lon="13.2130951" version="1" timestamp="2015-06-11T08:19:44Z" changeset="31890497" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587440011" lat="46.0758118" lon="13.2292021" version="3" timestamp="2015-09-24T11:16:35Z" changeset="34223634" uid="1345232" user="paolozamp">
+    <tag k="height" v="30m"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587440012" lat="46.0696973" lon="13.2226647" version="1" timestamp="2015-06-11T08:19:44Z" changeset="31890497" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587440013" lat="46.0695271" lon="13.2228195" version="1" timestamp="2015-06-11T08:19:44Z" changeset="31890497" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587440014" lat="46.0641676" lon="13.2286588" version="1" timestamp="2015-06-11T08:19:44Z" changeset="31890497" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587440015" lat="46.0728365" lon="13.2257720" version="2" timestamp="2015-11-02T09:00:22Z" changeset="35028780" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587440016" lat="46.0843577" lon="13.2258234" version="1" timestamp="2015-06-11T08:19:44Z" changeset="31890497" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587440017" lat="46.0872072" lon="13.2337285" version="1" timestamp="2015-06-11T08:19:44Z" changeset="31890497" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587440018" lat="46.0869956" lon="13.2326818" version="1" timestamp="2015-06-11T08:19:44Z" changeset="31890497" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587440019" lat="46.0917817" lon="13.2351300" version="1" timestamp="2015-06-11T08:19:44Z" changeset="31890497" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587440020" lat="46.0985548" lon="13.2375514" version="1" timestamp="2015-06-11T08:19:45Z" changeset="31890497" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587440021" lat="46.1016715" lon="13.2271056" version="1" timestamp="2015-06-11T08:19:45Z" changeset="31890497" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587440022" lat="46.1012338" lon="13.2271797" version="1" timestamp="2015-06-11T08:19:45Z" changeset="31890497" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587440023" lat="46.1089799" lon="13.2106171" version="1" timestamp="2015-06-11T08:19:45Z" changeset="31890497" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587440024" lat="46.0996404" lon="13.2062243" version="2" timestamp="2015-12-11T12:55:03Z" changeset="35884026" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587440025" lat="46.0986269" lon="13.2135739" version="1" timestamp="2015-06-11T08:19:45Z" changeset="31890497" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587440026" lat="46.0951863" lon="13.2064376" version="1" timestamp="2015-06-11T08:19:45Z" changeset="31890497" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587446787" lat="46.0848430" lon="13.1954297" version="1" timestamp="2015-06-11T08:27:17Z" changeset="31890647" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587446788" lat="46.0862390" lon="13.1976614" version="1" timestamp="2015-06-11T08:27:17Z" changeset="31890647" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587446789" lat="46.0881481" lon="13.1956202" version="1" timestamp="2015-06-11T08:27:17Z" changeset="31890647" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587446790" lat="46.0878797" lon="13.1833753" version="1" timestamp="2015-06-11T08:27:17Z" changeset="31890647" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587466666" lat="46.1826773" lon="13.3467290" version="1" timestamp="2015-06-11T08:38:53Z" changeset="31890833" uid="1345232" user="paolozamp">
+    <tag k="height" v="30 m"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587478379" lat="46.1824876" lon="13.3475760" version="1" timestamp="2015-06-11T08:50:34Z" changeset="31891077" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587478381" lat="46.1813689" lon="13.3493982" version="1" timestamp="2015-06-11T08:50:34Z" changeset="31891077" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587478382" lat="46.1812430" lon="13.3494861" version="1" timestamp="2015-06-11T08:50:34Z" changeset="31891077" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587478383" lat="46.1815706" lon="13.3493742" version="1" timestamp="2015-06-11T08:50:34Z" changeset="31891077" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587478384" lat="46.1830373" lon="13.3509388" version="2" timestamp="2017-02-23T11:13:15Z" changeset="46334922" uid="361003" user="Cascafico">
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="mast"/>
+    <tag k="survey:date" v="2013-07-16"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587478385" lat="46.1831903" lon="13.3507852" version="1" timestamp="2015-06-11T08:50:34Z" changeset="31891077" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587478386" lat="46.1831400" lon="13.3508261" version="1" timestamp="2015-06-11T08:50:34Z" changeset="31891077" uid="1345232" user="paolozamp">
+    <tag k="height" v="30 m"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587478387" lat="46.1842679" lon="13.3552663" version="1" timestamp="2015-06-11T08:50:34Z" changeset="31891077" uid="1345232" user="paolozamp">
+    <tag k="height" v="50 m"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587505223" lat="46.1559899" lon="13.3723875" version="1" timestamp="2015-06-11T09:03:18Z" changeset="31891392" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587505224" lat="46.1588047" lon="13.3842345" version="1" timestamp="2015-06-11T09:03:18Z" changeset="31891392" uid="1345232" user="paolozamp">
+    <tag k="height" v="30 m"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587505225" lat="46.1614953" lon="13.3916314" version="1" timestamp="2015-06-11T09:03:18Z" changeset="31891392" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587505226" lat="46.1614523" lon="13.3915984" version="1" timestamp="2015-06-11T09:03:18Z" changeset="31891392" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587505227" lat="46.1614874" lon="13.3914221" version="1" timestamp="2015-06-11T09:03:19Z" changeset="31891392" uid="1345232" user="paolozamp">
+    <tag k="height" v="30m"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587505228" lat="46.1616431" lon="13.3931761" version="1" timestamp="2015-06-11T09:03:19Z" changeset="31891392" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587505229" lat="46.1615485" lon="13.3920805" version="1" timestamp="2015-06-11T09:03:19Z" changeset="31891392" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587505230" lat="46.1614864" lon="13.3922268" version="1" timestamp="2015-06-11T09:03:19Z" changeset="31891392" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587505231" lat="46.1614798" lon="13.3924486" version="1" timestamp="2015-06-11T09:03:19Z" changeset="31891392" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587505232" lat="46.1615812" lon="13.3928780" version="1" timestamp="2015-06-11T09:03:19Z" changeset="31891392" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587505233" lat="46.1613851" lon="13.3926231" version="1" timestamp="2015-06-11T09:03:19Z" changeset="31891392" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587505234" lat="46.1615746" lon="13.3930526" version="1" timestamp="2015-06-11T09:03:19Z" changeset="31891392" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587505235" lat="46.1615714" lon="13.3935622" version="1" timestamp="2015-06-11T09:03:19Z" changeset="31891392" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587505236" lat="46.1614047" lon="13.3927506" version="1" timestamp="2015-06-11T09:03:19Z" changeset="31891392" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587514719" lat="46.1554957" lon="13.3943671" version="1" timestamp="2015-06-11T09:10:37Z" changeset="31891553" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587514721" lat="46.1589315" lon="13.4017287" version="2" timestamp="2017-02-23T11:18:34Z" changeset="46335061" uid="361003" user="Cascafico">
+    <tag k="communication:television" v="yes"/>
+    <tag k="height" v="30 m"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:construction" v="lattice"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587514722" lat="46.1591864" lon="13.4051136" version="1" timestamp="2015-06-11T09:10:38Z" changeset="31891553" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587514723" lat="46.1593362" lon="13.4054816" version="1" timestamp="2015-06-11T09:10:38Z" changeset="31891553" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587528755" lat="46.3008775" lon="13.1210988" version="1" timestamp="2015-06-11T09:23:44Z" changeset="31891805" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587540776" lat="46.2903001" lon="13.0517860" version="1" timestamp="2015-06-11T09:29:28Z" changeset="31891922" uid="1345232" user="paolozamp">
+    <tag k="height" v="20 m"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587540778" lat="46.2918291" lon="13.0530240" version="2" timestamp="2015-06-11T09:29:53Z" changeset="31891932" uid="1345232" user="paolozamp">
+    <tag k="height" v="30 m"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587559466" lat="46.0613974" lon="13.2362649" version="1" timestamp="2015-06-11T09:45:28Z" changeset="31892220" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587559467" lat="46.0706376" lon="13.2361473" version="1" timestamp="2015-06-11T09:45:28Z" changeset="31892220" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587559468" lat="46.0709952" lon="13.2382190" version="1" timestamp="2015-06-11T09:45:28Z" changeset="31892220" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587559469" lat="46.0702431" lon="13.2372172" version="1" timestamp="2015-06-11T09:45:28Z" changeset="31892220" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587559470" lat="46.0710981" lon="13.2399514" version="1" timestamp="2015-06-11T09:45:28Z" changeset="31892220" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587577040" lat="46.0551999" lon="13.2423103" version="1" timestamp="2015-06-11T10:00:56Z" changeset="31892547" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587577041" lat="46.0546667" lon="13.2445623" version="2" timestamp="2016-10-24T20:56:20Z" changeset="43140508" uid="542047" user="dromedar61">
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587577042" lat="46.0467208" lon="13.2251347" version="1" timestamp="2015-06-11T10:00:56Z" changeset="31892547" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587577043" lat="46.0435861" lon="13.2219442" version="1" timestamp="2015-06-11T10:00:56Z" changeset="31892547" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587577044" lat="46.0515866" lon="13.2408227" version="1" timestamp="2015-06-11T10:00:56Z" changeset="31892547" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587577045" lat="46.0533997" lon="13.2565906" version="1" timestamp="2015-06-11T10:00:56Z" changeset="31892547" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3587588694" lat="46.0572605" lon="13.2680800" version="1" timestamp="2015-06-11T10:04:11Z" changeset="31892614" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3630682680" lat="46.5069748" lon="13.5199610" version="2" timestamp="2015-07-02T07:10:33Z" changeset="32347395" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3630699282" lat="46.4822611" lon="13.5200624" version="2" timestamp="2015-07-10T09:34:53Z" changeset="32538445" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3630699283" lat="46.4821477" lon="13.5200376" version="2" timestamp="2015-07-10T09:34:52Z" changeset="32538445" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3652453128" lat="46.1120778" lon="13.2236679" version="2" timestamp="2019-06-27T07:01:33Z" changeset="71660908" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="mast"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="1755"/>
+    <tag k="start_date" v="2006-02-20"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3757076062" lat="46.0369668" lon="13.2532446" version="1" timestamp="2015-09-24T10:57:33Z" changeset="34223339" uid="1345232" user="paolozamp">
+    <tag k="height" v="20m"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3784332714" lat="45.6629124" lon="13.0813548" version="2" timestamp="2015-10-13T08:47:01Z" changeset="34606221" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3800946745" lat="46.0788808" lon="13.2451776" version="2" timestamp="2015-10-26T13:20:03Z" changeset="34881634" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3812354343" lat="46.2099292" lon="13.2157922" version="1" timestamp="2015-11-01T10:07:47Z" changeset="35008226" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3812878516" lat="46.5050240" lon="13.5797532" version="2" timestamp="2015-11-01T18:15:22Z" changeset="35017967" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3812886383" lat="46.5050359" lon="13.5794807" version="2" timestamp="2019-10-20T17:36:55Z" changeset="75960536" uid="188429" user="gpstracks">
+    <tag k="height" v="20"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3813749535" lat="46.0014221" lon="13.2369263" version="1" timestamp="2015-11-02T12:23:08Z" changeset="35032503" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3830383701" lat="46.1278097" lon="13.5839297" version="1" timestamp="2015-11-11T09:24:05Z" changeset="35234417" uid="361003" user="Cascafico">
+    <tag k="disused:communication:mobile_phone" v="yes"/>
+    <tag k="height" v="6"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Vodafone"/>
+    <tag k="ref:cellid" v="20701"/>
+    <tag k="ref:lac" v="20031"/>
+    <tag k="ref:mcc" v="222"/>
+    <tag k="ref:mnc" v="10"/>
+    <tag k="source" v="opencellid.org"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3844834212" lat="46.4892118" lon="13.4877178" version="1" timestamp="2015-11-19T16:20:08Z" changeset="35439400" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3851584566" lat="45.9926327" lon="13.0801137" version="1" timestamp="2015-11-22T13:11:47Z" changeset="35507957" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3851642099" lat="45.9702554" lon="12.9700308" version="2" timestamp="2016-02-23T20:55:05Z" changeset="37398948" uid="85218" user="Aleks-Berlin">
+    <tag k="height" v="2"/>
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3856157947" lat="46.0474783" lon="13.2453699" version="1" timestamp="2015-11-24T10:28:37Z" changeset="35547370" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3856257269" lat="46.0778897" lon="13.2455982" version="1" timestamp="2015-11-24T11:21:46Z" changeset="35548212" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3856325328" lat="46.1005622" lon="13.2459864" version="1" timestamp="2015-11-24T11:56:09Z" changeset="35548697" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3856567772" lat="46.1613642" lon="13.1646943" version="1" timestamp="2015-11-24T13:43:52Z" changeset="35550694" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3856567773" lat="46.1613739" lon="13.1644047" version="1" timestamp="2015-11-24T13:43:52Z" changeset="35550694" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3866676265" lat="46.0541911" lon="13.2304943" version="1" timestamp="2015-11-29T08:42:53Z" changeset="35642025" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3866676283" lat="46.0545153" lon="13.2306212" version="1" timestamp="2015-11-29T08:42:53Z" changeset="35642025" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3867474193" lat="46.0054251" lon="13.3391128" version="1" timestamp="2015-11-29T16:42:07Z" changeset="35649994" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3881708899" lat="45.9686558" lon="12.9680174" version="1" timestamp="2015-12-07T11:31:36Z" changeset="35804161" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3883320327" lat="45.9709492" lon="12.9900986" version="1" timestamp="2015-12-08T13:49:02Z" changeset="35826503" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3883321424" lat="45.9676478" lon="12.9888295" version="1" timestamp="2015-12-08T13:50:02Z" changeset="35826530" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3884507659" lat="45.9680624" lon="13.0099147" version="1" timestamp="2015-12-09T10:42:07Z" changeset="35843117" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3887525233" lat="46.1103110" lon="13.2059017" version="1" timestamp="2015-12-11T12:29:23Z" changeset="35883615" uid="1345232" user="paolozamp">
+    <tag k="height" v="30m"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3893116395" lat="45.8605631" lon="13.3126115" version="2" timestamp="2016-11-06T16:23:53Z" changeset="43444843" uid="542047" user="dromedar61">
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3893142240" lat="45.8619055" lon="13.2899425" version="1" timestamp="2015-12-15T09:56:54Z" changeset="35963014" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3893151554" lat="45.8776135" lon="13.2868262" version="1" timestamp="2015-12-15T10:10:06Z" changeset="35963180" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3905127239" lat="46.0185950" lon="13.2275179" version="1" timestamp="2015-12-22T17:43:20Z" changeset="36110462" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="3905127240" lat="46.0185736" lon="13.2278938" version="1" timestamp="2015-12-22T17:43:20Z" changeset="36110462" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4177309851" lat="46.0478370" lon="13.3831101" version="1" timestamp="2016-05-10T22:57:30Z" changeset="39230036" uid="1730440" user="LB_Manzano">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4224321702" lat="45.9725365" lon="13.4022749" version="1" timestamp="2016-06-03T20:09:47Z" changeset="39787032" uid="1730440" user="LB_Manzano">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4248319720" lat="46.0613080" lon="13.3933623" version="1" timestamp="2016-06-17T12:10:56Z" changeset="40092094" uid="1730440" user="LB_Manzano">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4601517613" lat="46.1844937" lon="13.4155521" version="4" timestamp="2017-01-11T13:40:16Z" changeset="45076117" uid="361003" user="Cascafico">
+    <tag k="communication:amateur_radio:repeater" v="IR3N"/>
+    <tag k="communication:amateur_radio:repeater:ctcss" v="88.5"/>
+    <tag k="communication:amateur_radio:repeater:frequency_out" v="145.6375"/>
+    <tag k="communication:amateur_radio:repeater:ref" v="communication:amateur_radio:repeater:operator=ari"/>
+    <tag k="communication:amateur_radio:repeater:shift" v="-600"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="name" v="R1a - Udine"/>
+    <tag k="source" v="IZ8WNH"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4629894165" lat="45.9729108" lon="13.4047076" version="1" timestamp="2017-01-24T17:59:42Z" changeset="45443613" uid="1730440" user="LB_Manzano">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4699138878" lat="46.1055400" lon="13.4860000" version="1" timestamp="2017-02-22T12:58:41Z" changeset="46306455" uid="361003" user="Cascafico">
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4699159264" lat="46.1429400" lon="13.4190400" version="1" timestamp="2017-02-22T13:19:15Z" changeset="46307074" uid="361003" user="Cascafico">
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4699637974" lat="45.8854700" lon="13.3513200" version="2" timestamp="2017-02-23T15:48:02Z" changeset="46342105" uid="361003" user="Cascafico">
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="survey:date" v="2008-06-06"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4700713488" lat="46.1591600" lon="13.5014600" version="1" timestamp="2017-02-23T07:55:35Z" changeset="46329168" uid="361003" user="Cascafico">
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="source" v="RAFVG"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4700718725" lat="46.1499500" lon="13.5269800" version="2" timestamp="2017-02-23T08:10:06Z" changeset="46329492" uid="361003" user="Cascafico">
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4701141735" lat="46.1540100" lon="13.5707700" version="1" timestamp="2017-02-23T10:37:10Z" changeset="46333805" uid="361003" user="Cascafico">
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4701141736" lat="46.1538426" lon="13.5707726" version="2" timestamp="2017-02-23T10:38:00Z" changeset="46333839" uid="361003" user="Cascafico">
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4701181395" lat="46.1662000" lon="13.6047100" version="1" timestamp="2017-02-23T10:51:52Z" changeset="46334318" uid="361003" user="Cascafico">
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4701183396" lat="46.1819900" lon="13.4797800" version="1" timestamp="2017-02-23T10:53:13Z" changeset="46334358" uid="361003" user="Cascafico">
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4701188705" lat="46.1918800" lon="13.4618300" version="1" timestamp="2017-02-23T10:56:42Z" changeset="46334461" uid="361003" user="Cascafico">
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4701223469" lat="46.1594800" lon="13.4004100" version="2" timestamp="2018-10-02T00:19:47Z" changeset="63109852" uid="3432400" user="GinaroZ">
+    <tag k="communication:television" v="yes"/>
+    <tag k="height" v="30"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="survey:date" v="2016-01-15"/>
+    <tag k="tower:construction" v="lattice"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4711671440" lat="46.0358500" lon="13.4676800" version="1" timestamp="2017-03-01T12:55:24Z" changeset="46493621" uid="361003" user="Cascafico">
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4711686416" lat="46.2435700" lon="13.2578600" version="1" timestamp="2017-03-01T13:09:56Z" changeset="46493969" uid="361003" user="Cascafico">
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4711695130" lat="46.2609400" lon="13.3475900" version="1" timestamp="2017-03-01T13:10:33Z" changeset="46493979" uid="361003" user="Cascafico">
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4711695649" lat="46.2471500" lon="13.3813200" version="1" timestamp="2017-03-01T13:11:18Z" changeset="46494001" uid="361003" user="Cascafico">
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4711696501" lat="46.2331800" lon="13.1189900" version="1" timestamp="2017-03-01T13:12:46Z" changeset="46494030" uid="361003" user="Cascafico">
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="survey:date" v="2011-11-18"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4711699201" lat="46.3500700" lon="13.0703100" version="2" timestamp="2019-06-20T08:56:25Z" changeset="71434546" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="1158"/>
+    <tag k="start_date" v="2006-04-11"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4711700055" lat="46.1971300" lon="12.9966500" version="1" timestamp="2017-03-01T13:16:39Z" changeset="46494122" uid="361003" user="Cascafico">
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4711700206" lat="46.3535400" lon="13.0561800" version="1" timestamp="2017-03-01T13:15:49Z" changeset="46494111" uid="361003" user="Cascafico">
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4711700207" lat="46.3533800" lon="13.0570100" version="2" timestamp="2019-06-20T08:56:21Z" changeset="71434543" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="1140"/>
+    <tag k="start_date" v="2014-05-19"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4711707441" lat="46.3904500" lon="13.2225500" version="1" timestamp="2017-03-01T13:28:24Z" changeset="46494393" uid="361003" user="Cascafico">
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4711707544" lat="46.4053900" lon="13.1899900" version="1" timestamp="2017-03-01T13:27:42Z" changeset="46494374" uid="361003" user="Cascafico">
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4712898405" lat="46.4248300" lon="13.0469500" version="2" timestamp="2017-03-07T08:23:44Z" changeset="46644391" uid="616774" user="mueschel">
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4712919284" lat="46.4560540" lon="13.0225993" version="3" timestamp="2019-04-06T21:21:52Z" changeset="68962393" uid="9475258" user="Aranc">
+    <tag k="communication:television" v="yes"/>
+    <tag k="height" v="15"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="name" v="Forneaso - EI Towers"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4712937144" lat="46.4354400" lon="12.9815000" version="1" timestamp="2017-03-02T08:03:18Z" changeset="46514994" uid="361003" user="Cascafico">
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4712947820" lat="46.4059200" lon="12.9399900" version="1" timestamp="2017-03-02T08:11:03Z" changeset="46515263" uid="361003" user="Cascafico">
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4712947821" lat="46.4058600" lon="12.9406300" version="1" timestamp="2017-03-02T08:11:03Z" changeset="46515263" uid="361003" user="Cascafico">
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4712990586" lat="46.3937900" lon="12.8223700" version="1" timestamp="2017-03-02T08:59:44Z" changeset="46516256" uid="361003" user="Cascafico">
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4712991744" lat="46.3978800" lon="12.7411600" version="1" timestamp="2017-03-02T09:00:53Z" changeset="46516279" uid="361003" user="Cascafico">
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4712991745" lat="46.3976100" lon="12.7409100" version="1" timestamp="2017-03-02T09:00:53Z" changeset="46516279" uid="361003" user="Cascafico">
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4712994500" lat="46.4100502" lon="12.7627592" version="1" timestamp="2017-03-02T09:04:36Z" changeset="46516361" uid="361003" user="Cascafico">
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4712996370" lat="46.4229600" lon="12.8690300" version="1" timestamp="2017-03-02T09:09:42Z" changeset="46516491" uid="361003" user="Cascafico">
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4712996371" lat="46.4224700" lon="12.8669200" version="1" timestamp="2017-03-02T09:09:42Z" changeset="46516491" uid="361003" user="Cascafico">
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4712998971" lat="46.4582300" lon="12.8790800" version="1" timestamp="2017-03-02T09:10:22Z" changeset="46516507" uid="361003" user="Cascafico">
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4713115605" lat="46.4996200" lon="12.8476100" version="1" timestamp="2017-03-02T10:34:00Z" changeset="46518555" uid="361003" user="Cascafico">
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4713115606" lat="46.4992500" lon="12.8479000" version="1" timestamp="2017-03-02T10:34:00Z" changeset="46518555" uid="361003" user="Cascafico">
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4713117960" lat="46.5146300" lon="12.9276100" version="1" timestamp="2017-03-02T10:37:32Z" changeset="46518640" uid="361003" user="Cascafico">
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4713263187" lat="46.5222800" lon="12.9888100" version="1" timestamp="2017-03-02T12:25:53Z" changeset="46520822" uid="361003" user="Cascafico">
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4713264676" lat="46.5300700" lon="13.0299900" version="1" timestamp="2017-03-02T12:27:24Z" changeset="46520856" uid="361003" user="Cascafico">
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4713265312" lat="46.5023900" lon="13.0702400" version="1" timestamp="2017-03-02T12:29:24Z" changeset="46520893" uid="361003" user="Cascafico">
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4713267525" lat="46.4820600" lon="13.0964300" version="1" timestamp="2017-03-02T12:30:17Z" changeset="46520909" uid="361003" user="Cascafico">
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4713269371" lat="46.5068200" lon="13.2908000" version="1" timestamp="2017-03-02T12:31:31Z" changeset="46520940" uid="361003" user="Cascafico">
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="survey:date" v="2007-02-07"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4713272562" lat="46.4200400" lon="13.5718200" version="1" timestamp="2017-03-02T12:40:19Z" changeset="46521148" uid="361003" user="Cascafico">
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4713273562" lat="46.5106800" lon="13.3130800" version="1" timestamp="2017-03-02T12:33:53Z" changeset="46520999" uid="361003" user="Cascafico">
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4713277157" lat="46.3901046" lon="13.4771908" version="1" timestamp="2017-03-02T12:38:57Z" changeset="46520822" uid="361003" user="Cascafico">
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4713280670" lat="46.4377100" lon="13.5716300" version="1" timestamp="2017-03-02T12:41:43Z" changeset="46521182" uid="361003" user="Cascafico">
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="survey:date" v="2011-04-12"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4713280671" lat="46.4374600" lon="13.5719200" version="1" timestamp="2017-03-02T12:41:43Z" changeset="46521182" uid="361003" user="Cascafico">
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4713290694" lat="46.4500200" lon="13.5669600" version="1" timestamp="2017-03-02T12:43:59Z" changeset="46520822" uid="361003" user="Cascafico">
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4732781744" lat="46.5015600" lon="13.5717493" version="1" timestamp="2017-03-13T20:13:49Z" changeset="46822744" uid="2966" user="jenda">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="4755130174" lat="46.2908380" lon="13.2987513" version="1" timestamp="2017-03-25T18:25:54Z" changeset="47159470" uid="188429" user="gpstracks">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="5064697313" lat="46.5692471" lon="12.7296998" version="3" timestamp="2017-09-10T15:04:18Z" changeset="51910492" uid="223093" user="geow">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="mast"/>
+    <tag k="operator" v="Rai Way"/>
+    <tag k="tower:construction" v="lattice"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="5316388342" lat="45.7610854" lon="13.1613133" version="1" timestamp="2018-01-02T13:11:42Z" changeset="55100335" uid="7126733" user="Bisato in Speo">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:construction" v="steel"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="5367773086" lat="46.2373049" lon="13.0759637" version="1" timestamp="2018-01-28T10:56:51Z" changeset="55825933" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="5367797026" lat="46.1882095" lon="13.0556679" version="1" timestamp="2018-01-28T11:13:52Z" changeset="55826286" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="5534829619" lat="46.1047560" lon="13.4861423" version="1" timestamp="2018-04-06T23:31:38Z" changeset="57880563" uid="2842498" user="Igorzo">
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="5534829816" lat="46.1052836" lon="13.4867911" version="1" timestamp="2018-04-06T23:33:11Z" changeset="57880578" uid="2842498" user="Igorzo">
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="5534832046" lat="46.1054603" lon="13.4868260" version="1" timestamp="2018-04-06T23:32:54Z" changeset="57880577" uid="2842498" user="Igorzo">
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="5570449404" lat="46.0362550" lon="13.1828596" version="3" timestamp="2018-04-22T07:31:27Z" changeset="58303959" uid="1345232" user="paolozamp">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="5570449406" lat="46.0364948" lon="13.1825211" version="2" timestamp="2018-04-22T07:13:33Z" changeset="58303733" uid="1345232" user="paolozamp">
+    <tag k="height" v="30 m"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="5844362332" lat="46.0626053" lon="13.2468647" version="1" timestamp="2018-08-20T17:16:21Z" changeset="61830433" uid="3821761" user="Gabriele Dri">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="mast"/>
+    <tag k="operator" v="TIM S.p.A."/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="5881961540" lat="46.0760887" lon="13.2692742" version="1" timestamp="2018-09-04T14:17:10Z" changeset="62281413" uid="2360444" user="rikmede">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6153630128" lat="46.5162202" lon="13.2488562" version="1" timestamp="2018-12-22T14:39:41Z" changeset="65695043" uid="188429" user="gpstracks">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6352205658" lat="46.4272350" lon="12.9247430" version="1" timestamp="2019-03-21T13:09:03Z" changeset="68372931" uid="361003" user="Cascafico">
+    <tag k="communication:radio" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="ref" v="1091"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6352224007" lat="46.3871100" lon="13.2477900" version="1" timestamp="2019-03-21T13:16:36Z" changeset="68373192" uid="361003" user="Cascafico">
+    <tag k="communication:radio" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="ref" v="2109"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6493325143" lat="45.6965758" lon="13.1510172" version="2" timestamp="2019-12-11T07:24:18Z" changeset="78244674" uid="110834" user="andreagott">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="mast"/>
+    <tag k="operator" v="Vodafone"/>
+    <tag k="tower:construction" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6557035526" lat="46.0652300" lon="13.2448000" version="1" timestamp="2019-06-19T08:37:08Z" changeset="71392771" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Iliad Italia"/>
+    <tag k="ref" v="1864"/>
+    <tag k="start_date" v="2019-02-19"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6557037777" lat="46.0763750" lon="13.2493720" version="1" timestamp="2019-06-19T08:37:53Z" changeset="71392798" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Iliad Italia"/>
+    <tag k="ref" v="1917"/>
+    <tag k="start_date" v="2018-11-06"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6559888236" lat="46.4395100" lon="12.5645000" version="1" timestamp="2019-06-20T08:41:20Z" changeset="71433714" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="181"/>
+    <tag k="start_date" v="2019-04-23"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6559935584" lat="46.3961900" lon="13.0148400" version="1" timestamp="2019-06-20T08:48:26Z" changeset="71434102" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="1049"/>
+    <tag k="start_date" v="2018-12-28"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6559936678" lat="46.3976200" lon="12.7409600" version="1" timestamp="2019-06-20T08:46:05Z" changeset="71433980" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="567"/>
+    <tag k="start_date" v="2019-03-20"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6559944236" lat="46.4090800" lon="12.9157300" version="1" timestamp="2019-06-20T08:47:27Z" changeset="71434050" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="829"/>
+    <tag k="start_date" v="2019-04-23"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6559944237" lat="46.4346700" lon="12.8768500" version="1" timestamp="2019-06-20T08:47:27Z" changeset="71434050" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="799"/>
+    <tag k="start_date" v="2017-05-09"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6559951385" lat="46.3854900" lon="12.9755800" version="1" timestamp="2019-06-20T08:48:26Z" changeset="71434102" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="960"/>
+    <tag k="start_date" v="2014-10-27"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6559975168" lat="46.2793690" lon="13.1396540" version="1" timestamp="2019-06-20T09:00:35Z" changeset="71434773" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="1470"/>
+    <tag k="start_date" v="2018-04-20"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6559975169" lat="46.2775700" lon="13.0658300" version="1" timestamp="2019-06-20T09:00:35Z" changeset="71434773" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="1148"/>
+    <tag k="start_date" v="2019-03-15"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6559975170" lat="46.3143700" lon="13.0612700" version="1" timestamp="2019-06-20T09:00:35Z" changeset="71434773" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="1142"/>
+    <tag k="start_date" v="2003-11-19"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6559978601" lat="46.3722700" lon="13.0757500" version="1" timestamp="2019-06-20T08:56:30Z" changeset="71434553" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="1199"/>
+    <tag k="start_date" v="2017-10-04"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6572137867" lat="46.1877900" lon="13.1184000" version="1" timestamp="2019-06-26T09:54:07Z" changeset="71629583" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="1321"/>
+    <tag k="start_date" v="2019-05-02"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6572182158" lat="46.2160300" lon="13.1199700" version="1" timestamp="2019-06-26T09:54:50Z" changeset="71629646" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="1359"/>
+    <tag k="start_date" v="2015-05-15"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6572198941" lat="46.2307300" lon="13.0833800" version="1" timestamp="2019-06-26T09:57:47Z" changeset="71629884" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="1223"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6572198942" lat="46.2306300" lon="13.0841200" version="1" timestamp="2019-06-26T09:57:47Z" changeset="71629884" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="1224"/>
+    <tag k="start_date" v="2019-04-24"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6572198943" lat="46.2249800" lon="13.1275800" version="1" timestamp="2019-06-26T09:57:47Z" changeset="71629884" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="1389"/>
+    <tag k="start_date" v="2019-04-08"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6572218316" lat="46.1145000" lon="12.9602400" version="1" timestamp="2019-06-26T10:03:31Z" changeset="71630088" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="889"/>
+    <tag k="start_date" v="2019-03-15"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6572218317" lat="46.1497300" lon="12.9967300" version="1" timestamp="2019-06-26T10:03:31Z" changeset="71630088" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="1006"/>
+    <tag k="start_date" v="2019-04-17"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6572218318" lat="46.0861300" lon="12.9530100" version="1" timestamp="2019-06-26T10:03:31Z" changeset="71630088" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="877"/>
+    <tag k="start_date" v="2019-04-24"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6573940938" lat="46.5252400" lon="13.6145400" version="1" timestamp="2019-06-27T07:07:07Z" changeset="71661036" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="2818"/>
+    <tag k="start_date" v="2015-02-04"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6573940939" lat="46.4935100" lon="13.5677800" version="1" timestamp="2019-06-27T07:07:07Z" changeset="71661036" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="2709"/>
+    <tag k="start_date" v="2014-07-07"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6573940940" lat="46.4280000" lon="13.3169500" version="1" timestamp="2019-06-27T07:07:07Z" changeset="71661036" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="2162"/>
+    <tag k="start_date" v=""/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6573940941" lat="46.4053700" lon="13.1900000" version="1" timestamp="2019-06-27T07:07:07Z" changeset="71661036" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="1636"/>
+    <tag k="start_date" v="2019-03-11"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6573969436" lat="46.3294200" lon="13.1323900" version="1" timestamp="2019-06-27T07:01:33Z" changeset="71660908" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="1413"/>
+    <tag k="start_date" v="2018-12-28"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6573969437" lat="46.1850300" lon="13.0612000" version="1" timestamp="2019-06-27T07:01:33Z" changeset="71660908" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="1114"/>
+    <tag k="start_date" v="2019-04-24"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6573969439" lat="46.0936400" lon="13.4206800" version="1" timestamp="2019-06-27T07:01:33Z" changeset="71660908" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="2363"/>
+    <tag k="start_date" v="2006-02-13"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6573986985" lat="45.6931600" lon="13.1454500" version="1" timestamp="2019-06-27T07:10:53Z" changeset="71661120" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="1391"/>
+    <tag k="start_date" v=""/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6573986986" lat="45.6895400" lon="13.1357800" version="1" timestamp="2019-06-27T07:10:53Z" changeset="71661120" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="1337"/>
+    <tag k="start_date" v="2018-03-16"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6573986987" lat="45.6877100" lon="13.1230300" version="1" timestamp="2019-06-27T07:10:53Z" changeset="71661120" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="1296"/>
+    <tag k="start_date" v="2018-10-05"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6573986988" lat="45.6679300" lon="13.0944300" version="1" timestamp="2019-06-27T07:10:53Z" changeset="71661120" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="1171"/>
+    <tag k="start_date" v="2015-03-20"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6573986989" lat="45.6748800" lon="13.0949500" version="1" timestamp="2019-06-27T07:10:53Z" changeset="71661120" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="1181"/>
+    <tag k="start_date" v="2019-03-26"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6573986990" lat="45.6953300" lon="13.0597600" version="1" timestamp="2019-06-27T07:10:53Z" changeset="71661120" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="1087"/>
+    <tag k="start_date" v="2019-04-04"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6574235667" lat="45.8169400" lon="13.3298900" version="1" timestamp="2019-06-27T09:36:01Z" changeset="71665651" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="2131"/>
+    <tag k="start_date" v="2019-04-24"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6574294393" lat="45.9571200" lon="12.9740900" version="1" timestamp="2019-06-27T09:40:54Z" changeset="71665780" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="900"/>
+    <tag k="start_date" v="2019-04-09"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6574294394" lat="45.9467300" lon="13.0515800" version="1" timestamp="2019-06-27T09:40:54Z" changeset="71665780" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="mast"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="1089"/>
+    <tag k="start_date" v="2019-03-19"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6574294395" lat="45.9252300" lon="13.1055900" version="1" timestamp="2019-06-27T09:40:54Z" changeset="71665780" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="mast"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="1275"/>
+    <tag k="start_date" v="2017-05-05"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6574294396" lat="45.9152800" lon="13.1828400" version="1" timestamp="2019-06-27T09:40:54Z" changeset="71665780" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="mast"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="1536"/>
+    <tag k="start_date" v="2011-05-31"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6574294397" lat="45.9032500" lon="13.2622300" version="1" timestamp="2019-06-27T09:40:54Z" changeset="71665780" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="mast"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="1941"/>
+    <tag k="start_date" v="2017-03-09"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6574294398" lat="45.8898000" lon="13.3417600" version="1" timestamp="2019-06-27T09:40:54Z" changeset="71665780" uid="361003" user="Cascafico">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="mast"/>
+    <tag k="operator" v="Wind-Tre"/>
+    <tag k="ref" v="2172"/>
+    <tag k="start_date" v="2018-11-22"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="6574299953" lat="46.5796530" lon="12.8083092" version="1" timestamp="2019-06-27T09:40:01Z" changeset="71665754" uid="9475258" user="Aranc">
+    <tag k="communication:radio" v="yes"/>
+    <tag k="communication:television" v="yes"/>
+    <tag k="ele" v="1305"/>
+    <tag k="height" v="20"/>
+    <tag k="man_made" v="mast"/>
+    <tag k="name" v="Forni Avoltri - RAI"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="7176942509" lat="46.0117541" lon="13.1252178" version="1" timestamp="2020-02-01T11:23:43Z" changeset="80406560" uid="10716882" user="FredrickIlBiondo">
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="7176942510" lat="46.0114085" lon="13.1195995" version="1" timestamp="2020-02-01T11:23:43Z" changeset="80406560" uid="10716882" user="FredrickIlBiondo">
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="7253283527" lat="46.3889900" lon="13.1971215" version="1" timestamp="2020-02-29T18:05:06Z" changeset="81626395" uid="516712" user="mux0815">
+    <tag k="height" v="58"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="7253283528" lat="46.3890257" lon="13.1971429" version="1" timestamp="2020-02-29T18:05:06Z" changeset="81626395" uid="516712" user="mux0815">
+    <tag k="height" v="8"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="7285505558" lat="46.3013247" lon="13.1230992" version="1" timestamp="2020-03-11T17:22:49Z" changeset="82071833" uid="188429" user="gpstracks">
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="8376933521" lat="46.0212530" lon="13.3926468" version="2" timestamp="2021-02-09T17:20:07Z" changeset="98991659" uid="1730440" user="LB_Manzano">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:construction" v="tube"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <node id="8409226877" lat="45.9882131" lon="13.3648689" version="1" timestamp="2021-02-09T17:20:07Z" changeset="98991659" uid="1730440" user="LB_Manzano">
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:construction" v="tube"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <way id="36599762" version="2" timestamp="2016-02-15T11:23:55Z" changeset="37222266" uid="1227619" user="Marco_T">
+    <center lat="46.1515045" lon="13.2397844"/>
+    <nd ref="425966960"/>
+    <nd ref="425966961"/>
+    <nd ref="425966962"/>
+    <nd ref="425966963"/>
+    <nd ref="425966960"/>
+    <tag k="building" v="hut"/>
+    <tag k="height" v="3 m"/>
+    <tag k="it:fvg:ctrn:code" v="4ABA"/>
+    <tag k="it:fvg:ctrn:revision" v="1AN"/>
+    <tag k="man_made" v="mast"/>
+    <tag k="tower:type" v="communication"/>
+  </way>
+  <way id="217481788" version="2" timestamp="2015-01-07T16:59:14Z" changeset="27980517" uid="188429" user="gpstracks">
+    <center lat="46.2740311" lon="13.1256212"/>
+    <nd ref="2267481501"/>
+    <nd ref="2267481507"/>
+    <nd ref="2267481510"/>
+    <nd ref="2267481512"/>
+    <nd ref="2267481508"/>
+    <nd ref="2267481505"/>
+    <nd ref="2267481503"/>
+    <nd ref="2267481499"/>
+    <nd ref="2267481501"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </way>
+  <way id="254909548" version="1" timestamp="2014-01-02T21:22:35Z" changeset="19775855" uid="68539" user="aschaferle">
+    <center lat="46.0322782" lon="13.1934841"/>
+    <nd ref="2606890672"/>
+    <nd ref="2606890674"/>
+    <nd ref="2606890670"/>
+    <nd ref="2606890668"/>
+    <nd ref="2606890672"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </way>
+  <way id="302771075" version="2" timestamp="2017-03-02T08:58:42Z" changeset="46516231" uid="361003" user="Cascafico">
+    <center lat="46.3938882" lon="12.8226152"/>
+    <nd ref="3070492828"/>
+    <nd ref="3070492830"/>
+    <nd ref="3070492831"/>
+    <nd ref="3070492829"/>
+    <nd ref="3070492828"/>
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </way>
+  <way id="407259781" version="2" timestamp="2017-03-01T13:31:35Z" changeset="46493621" uid="361003" user="Cascafico">
+    <center lat="46.3868563" lon="13.2490689"/>
+    <nd ref="4093098623"/>
+    <nd ref="4093098626"/>
+    <nd ref="4093098627"/>
+    <nd ref="4093098625"/>
+    <nd ref="4093098623"/>
+    <tag k="communication:television" v="yes"/>
+    <tag k="man_made" v="tower"/>
+    <tag k="tower:type" v="communication"/>
+  </way>
+
+</osm>
